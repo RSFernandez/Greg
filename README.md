@@ -1,10 +1,10 @@
 # Greg
 Space Abandoned VR
 
-A Federation Cruiser was just on a routine patrol through the Dao-29 System, but on the far moon of Birtola-9, a faint distress signal was detected. After establishing radio contact, the source of the signal was identified as Greg Yamamoto, the technician of a lunar expeditionary team investigating an abandoned moon base.
+While on a routine patrol passing through the Dao-29 System, the F.S.S. Damien Grey detected a faint signal on the far side of Birtola-9. After closing in on the source, the signal was identified as Private Golgo "Greg" Mukayama, chief technical officer of a lunar expeditionary team investigating an abandoned moon base.
 
-They were led down there by a foolish lieutenant who had gone AWOL.
+A rogue lieutenant commissioned the expedition, but the fool led them into a trap.
 
-Now everyone is dead, killed by a rogue AI they call "PAL-9001".
+Now everyone is dead, killed by a rogue AI they call "P.A.L.".
 
-You are RST-528, a Federation Terrestrial Recon Scout Trooper. Your job is to establish contact with Greg, and return him to the ship alive and well.
+You are a Federation Recon Scout Trooper tasked with finding Greg, and bringing him back to the ship in one piece.
