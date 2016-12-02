@@ -1,97 +1,97 @@
-﻿Log file open, 11/29/16 23:25:23
+﻿Log file open, 12/02/16 09:15:41
 LogInit:Display: Running engine for game: Greg
 LogPlatformFile: Not using cached read wrapper
-LogInit:Display: RandInit(-1941183186) SRandInit(-1941183186).
+LogInit:Display: RandInit(447169445) SRandInit(447169445).
 LogTaskGraph: Started task graph with 5 named threads and 6 total threads with 1 sets of task threads.
-LogStats: Stats thread started at 0.088103
-LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
-LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
-LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
-LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
-LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
-LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
-LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
-LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
-LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
-LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
-LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
-LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
-LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
-LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
-LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
-LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
-LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
-LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
-LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
-LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
-LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
-LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
-LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
-LogPluginManager: Loaded Plugin CodeView, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
-LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
-LogPluginManager: Loaded Plugin LiveEditor, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
-LogPluginManager: Loaded Plugin OSVR, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
-LogPluginManager: Loaded Plugin Phya, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
-LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
-LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
-LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
-LogPluginManager: Loaded Plugin StructBox, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
-LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
-LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
-LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
-LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
-LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
-LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
-LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
-LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
-LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
-LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
-LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
-LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
-LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
-LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
-LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
-LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
-LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
-LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
-LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
-LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
-LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
-LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
-LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
-LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
-LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
-LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
-LogPluginManager: Loaded Plugin Flurry, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
-LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
-LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
-LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
-LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
-LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
-LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
-LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
-LogPluginManager: Loaded Plugin GearVR, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
-LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
-LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
-LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
-LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
-LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
-LogPluginManager: Loaded Plugin LiveEditorListenServer, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
-LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
-LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
-LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
-LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
-LogPluginManager: Loaded Plugin Oodle, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
-LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
-LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
-LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
-LogPluginManager: Loaded Plugin SteamController, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
-LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
-LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
-LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
-LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
-LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
-LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogStats: Stats thread started at 0.216635
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
 LogInit: Using libcurl 7.47.1
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with WinSSL
@@ -129,1028 +129,166 @@ LogInit: Compiled with Visual C++: 19.00.23026.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.13
 LogInit: Command line:  
-LogInit: Base directory: C:/Program Files/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2016.11.30-07.25.23:924][  0]LogInit: Selected Device Profile: [Windows]
-[2016.11.30-07.25.23:924][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2016.11.30-07.25.23:948][  0]LogInit: Computer: PODIGI
-[2016.11.30-07.25.23:948][  0]LogInit: User: Adam
-[2016.11.30-07.25.23:948][  0]LogInit: CPU Page size=65536, Cores=2
-[2016.11.30-07.25.23:948][  0]LogInit: High frequency timer resolution =2.533196 MHz
-[2016.11.30-07.25.23:948][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
-[2016.11.30-07.25.23:948][  0]LogMemory: Platform Memory Stats for Windows
-[2016.11.30-07.25.23:948][  0]LogMemory: Process Physical Memory: 254.07 MB used, 254.07 MB peak
-[2016.11.30-07.25.23:948][  0]LogMemory: Process Virtual Memory: 259.64 MB used, 259.64 MB peak
-[2016.11.30-07.25.23:948][  0]LogMemory: Physical Memory: 4181.18 MB used, 8100.01 MB total
-[2016.11.30-07.25.23:948][  0]LogMemory: Virtual Memory: 603.55 MB used, 134217728.00 MB total
-[2016.11.30-07.25.23:991][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
-[2016.11.30-07.25.25:003][  0]LogD3D11RHI: D3D11 adapters:
-[2016.11.30-07.25.25:011][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics Family' (Feature Level 11_0)
-[2016.11.30-07.25.25:011][  0]LogD3D11RHI:       128/0/1792 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
-[2016.11.30-07.25.25:012][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2016.11.30-07.25.25:012][  0]LogD3D11RHI:       0/0/256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2016.11.30-07.25.25:012][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2016.11.30-07.25.25:018][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2016.11.30-07.25.25:018][  0]LogD3D11RHI:     GPU DeviceId: 0xa16 (for the marketing name, search the web for "GPU Device Id")
-[2016.11.30-07.25.25:018][  0]LogWindows: EnumDisplayDevices:
-[2016.11.30-07.25.25:018][  0]LogWindows:    0. 'Intel(R) HD Graphics Family' (P:1 D:1)
-[2016.11.30-07.25.25:018][  0]LogWindows:    1. 'Intel(R) HD Graphics Family' (P:0 D:0)
-[2016.11.30-07.25.25:019][  0]LogWindows:    2. 'Intel(R) HD Graphics Family' (P:0 D:0)
-[2016.11.30-07.25.25:019][  0]LogWindows: DebugString: FoundDriverCount:3 
-[2016.11.30-07.25.25:019][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics Family
-[2016.11.30-07.25.25:019][  0]LogD3D11RHI:   Driver Version: 10.18.14.4414 (internal:10.18.14.4414, unified:10.18.14.4414)
-[2016.11.30-07.25.25:019][  0]LogD3D11RHI:      Driver Date: 3-23-2016
-[2016.11.30-07.25.25:019][  0]LogRHI: Texture pool is 716 MB (70% of 1024 MB)
-[2016.11.30-07.25.25:026][  0]LogD3D11RHI: Async texture creation enabled
-[2016.11.30-07.25.25:033][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
-[2016.11.30-07.25.25:034][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Intermediate/Shaders/WorkingDirectory/10456/).
-[2016.11.30-07.25.25:034][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Adam/AppData/Local/Temp/UnrealShaderWorkingDir/8CD9A8EE458167AFE7A1ECB30B338120/'.
-[2016.11.30-07.25.25:034][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
-[2016.11.30-07.25.27:378][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
-[2016.11.30-07.25.27:397][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
-[2016.11.30-07.25.27:412][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
-[2016.11.30-07.25.27:432][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
-[2016.11.30-07.25.27:448][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
-[2016.11.30-07.25.27:463][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
-[2016.11.30-07.25.27:474][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
-[2016.11.30-07.25.27:492][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
-[2016.11.30-07.25.27:505][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
-[2016.11.30-07.25.27:519][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
-[2016.11.30-07.25.27:533][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
-[2016.11.30-07.25.27:563][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
-[2016.11.30-07.25.27:563][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
-[2016.11.30-07.25.27:564][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
-[2016.11.30-07.25.27:592][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
-[2016.11.30-07.25.27:605][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
-[2016.11.30-07.25.27:622][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
-[2016.11.30-07.25.27:635][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
-[2016.11.30-07.25.27:647][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
-[2016.11.30-07.25.27:664][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
-[2016.11.30-07.25.27:664][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2016.11.30-07.25.27:816][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
-[2016.11.30-07.25.28:770][  0]LogDerivedDataCache: Loaded boot cache 0.96s 62MB C:/Users/Adam/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
-[2016.11.30-07.25.28:770][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Adam/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
-[2016.11.30-07.25.28:770][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2016.11.30-07.25.28:770][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2016.11.30-07.25.28:771][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2016.11.30-07.25.28:771][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2016.11.30-07.25.28:803][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2016.11.30-07.25.28:816][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Adam/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2016.11.30-07.25.29:246][  0]LogInit: Selected Device Profile: [Windows]
-[2016.11.30-07.25.29:248][  0]LogContentStreaming: Texture pool size is 0.00 MB
-[2016.11.30-07.25.29:416][  0]LogMeshUtilities: No automatic mesh reduction module available
-[2016.11.30-07.25.29:416][  0]LogMeshUtilities: No automatic mesh merging module available
-[2016.11.30-07.25.29:416][  0]LogMeshUtilities: No distributed automatic mesh merging module available
-[2016.11.30-07.25.29:533][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2016.11.30-07.25.30:017][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: greg, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 3459958176
-[2016.11.30-07.25.30:072][  0]LogAssetRegistry: FAssetRegistry took 0.0232 seconds to start up
-[2016.11.30-07.25.30:127][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.052093 seconds
-[2016.11.30-07.25.30:135][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
-[2016.11.30-07.25.30:135][  0]LogUObjectAllocator: 6125456 out of 0 bytes used by permanent object pool.
-[2016.11.30-07.25.30:135][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2016.11.30-07.25.30:146][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2016.11.30-07.25.30:928][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2016.11.30-07.25.30:928][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2016.11.30-07.25.36:879][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2016.11.30-07.25.36:903][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2016.11.30-07.25.37:503][  0]SourceControl: Info Source control is disabled
-[2016.11.30-07.25.37:709][  0]SourceControl: Info Source control is disabled
-[2016.11.30-07.25.37:739][  0]SourceControl: Info Source control is disabled
-[2016.11.30-07.25.37:751][  0]SourceControl: Info Source control is disabled
-[2016.11.30-07.25.38:562][  0]LogEngine: Initializing Engine...
-[2016.11.30-07.25.38:569][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2016.11.30-07.25.38:812][  0]LogAIModule: Creating AISystem for world Untitled
-[2016.11.30-07.25.38:824][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2016.11.30-07.25.38:975][  0]LogInit: FAudioDevice initialized.
-[2016.11.30-07.25.39:047][  0]LogDerivedDataCache: Saved boot cache 0.07s 62MB C:/Users/Adam/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
-[2016.11.30-07.25.39:056][  0]LogInit: Texture streaming: Enabled
-[2016.11.30-07.25.39:099][  0]LogInit: Transaction tracking system initialized
-[2016.11.30-07.25.39:188][  0]BlueprintLog: New page: Editor Load
-[2016.11.30-07.25.39:412][  0]LocalizationService: Info Localization service is disabled
-[2016.11.30-07.25.39:929][  0]LogConsoleResponse:Display: 
-[2016.11.30-07.25.40:177][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2016.11.30-07.25.40:177][  0]LogCook:Display: Mobile HDR setting 1
-[2016.11.30-07.25.40:740][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Adam/Documents/Unreal Projects/Greg/Content/' took 0.04s
-[2016.11.30-07.25.40:740][  0]SourceControl: Info Source control is disabled
-[2016.11.30-07.25.40:740][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2016.11.30-07.25.40:742][  0]LightingResults: New page: Lighting Build
-[2016.11.30-07.25.40:746][  0]MapCheck: New page: Map Check
-[2016.11.30-07.25.40:746][  0]LightingResults: New page: Lighting Build
-[2016.11.30-07.25.45:491][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
-[2016.11.30-07.25.45:552][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2016.11.30-07.25.45:628][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2016.11.30-07.25.45:718][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 89.095ms to complete.
-[2016.11.30-07.25.45:718][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 4.978
-[2016.11.30-07.25.45:990][  0]LogCollectionManager: Loaded 0 collections in 0.007813 seconds
-[2016.11.30-07.25.46:039][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Adam/Documents/Unreal Projects/Greg/Saved/Collections/' took 0.01s
-[2016.11.30-07.25.46:039][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Adam/Documents/Unreal Projects/Greg/Content/Developers/Adam/Collections/' took 0.01s
-[2016.11.30-07.25.46:039][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Adam/Documents/Unreal Projects/Greg/Content/Collections/' took 0.01s
-[2016.11.30-07.25.46:039][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000004 seconds
-[2016.11.30-07.25.46:058][  0]LogContentBrowser: Native class hierarchy populated in 0.0192 seconds. Added 2142 classes and 417 folders.
-[2016.11.30-07.25.46:063][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2016.11.30-07.25.46:063][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2016.11.30-07.25.46:064][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0010 seconds. Added 12 classes and 0 folders.
-[2016.11.30-07.25.46:072][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
-[2016.11.30-07.25.46:677][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
-[2016.11.30-07.25.46:812][  0]LogCrashTracker: Crashtracker disabled due to settings.
-[2016.11.30-07.25.46:820][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
-[2016.11.30-07.25.46:863][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0013 seconds. Added 1 classes and 2 folders.
-[2016.11.30-07.25.46:863][  0]LogLoad: (Engine Initialization) Total time: 24.56 seconds
-[2016.11.30-07.25.46:863][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.58 seconds
-[2016.11.30-07.25.46:863][  0]LogExternalProfiler: Found external profiler: VSPerf
-[2016.11.30-07.25.46:863][  0]LogExternalProfiler: Using external profiler: VSPerf
-[2016.11.30-07.25.46:881][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
-[2016.11.30-07.25.46:881][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
-[2016.11.30-07.25.46:883][  0]LogOcInput: OculusInput pre-init called
-[2016.11.30-07.25.46:951][  0]LogContentStreaming: Texture pool size now 400 MB
-[2016.11.30-07.25.47:394][  0]LogRenderer: Reallocating scene render targets to support 256x256 (Frame:2).
-[2016.11.30-07.25.47:602][  0]LogRenderer: Reallocating scene render targets to support 928x568 (Frame:2).
-[2016.11.30-07.25.48:751][  3]LogAssetRegistry: Asset discovery search completed in 18.7021 seconds
-[2016.11.30-07.25.48:751][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
-[2016.11.30-07.25.48:751][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000033 seconds (updated 0 objects)
-[2016.11.30-07.26.08:708][748]LogAIModule: Creating AISystem for world MartianBase2
-[2016.11.30-07.26.08:885][748]Cmd: MAP LOAD FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2016.11.30-07.26.08:885][748]LightingResults: New page: Lighting Build
-[2016.11.30-07.26.08:886][748]LoadErrors: New page: Loading map: MartianBase2.umap
-[2016.11.30-07.26.08:898][748]MapCheck: New page: Map Check
-[2016.11.30-07.26.08:898][748]LightingResults: New page: Lighting Build
-[2016.11.30-07.26.08:997][748]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2016.11.30-07.26.09:094][748]Cmd: MAP CHECKDEP NOCLEARLOG
-[2016.11.30-07.26.09:185][748]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 90.34ms to complete.
-[2016.11.30-07.26.09:185][748]LogFileHelpers: Loading map 'MartianBase2' took 0.300
-[2016.11.30-07.26.11:492][854]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
-[2016.11.30-07.26.11:517][854]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
-[2016.11.30-07.26.11:518][854]LogAIModule: Creating AISystem for world MartianLevel
-[2016.11.30-07.26.21:454][156]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
-[2016.11.30-07.26.29:334][486]Cmd: DELETE
-[2016.11.30-07.26.29:334][486]Cmd: ACTOR DELETE
-[2016.11.30-07.26.29:359][486]LogEditorActor: Deleted Actor: PointLight
-[2016.11.30-07.26.29:395][486]LogEditorActor: Deleted 1 Actors (0.061 secs)
-[2016.11.30-07.26.46:870][882]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source2)
-[2016.11.30-07.29.36:538][821]Cmd: TRANSACTION UNDO
-[2016.11.30-07.29.36:538][821]LogEditorTransaction: Undo Edit Light Source Angle
-[2016.11.30-07.29.36:979][842]Cmd: TRANSACTION UNDO
-[2016.11.30-07.29.36:979][842]LogEditorTransaction: Undo Edit Light Source Angle
-[2016.11.30-07.36.07:748][414]LogSavePackage: Save=1718.54ms
-[2016.11.30-07.36.07:748][414]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBase2_Auto11179B10D488AD21BA4626C8102A19A67.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/Autosaves/Game/Maps/MartianBase2_Auto1.umap'
-[2016.11.30-07.36.07:752][414]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/Autosaves/Game/Maps/MartianBase2_Auto1.umap
-[2016.11.30-07.36.07:754][414]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MartianBase2' took 1.785
-[2016.11.30-07.36.07:754][414]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.785
-[2016.11.30-07.40.52:159][802]Cmd: SELECT NONE
-[2016.11.30-07.41.01:922][234]MapCheck: New page: Map Check
-[2016.11.30-07.41.02:152][234]Cmd: MAP REBUILD ALLVISIBLE
-[2016.11.30-07.41.02:154][234]LogEditorServer: Rebuildmap Clear paths rebuilt
-[2016.11.30-07.41.59:311][234]LogEditorServer: Cleared 17 NULL BSP materials after rebuild.
-[2016.11.30-07.41.59:390][234]LightingResults: New page: Lighting Build - Nov 29, 2016, 3:41:59 PM
-[2016.11.30-07.41.59:865][234]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
-[2016.11.30-07.42.00:011][234]LogSwarmInterface: [OpenConnection] Connecting to agent ...
-[2016.11.30-07.42.00:060][234]LogSwarmInterface: [TryOpenConnection] Testing the Agent
-[2016.11.30-07.42.01:827][234]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
-[2016.11.30-07.42.01:827][234]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10456
-[2016.11.30-07.42.19:408][234]LightingResults:Warning: Performance Warning No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
-[2016.11.30-07.42.19:483][234]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
-[2016.11.30-07.42.19:483][234]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
-[2016.11.30-07.42.19:483][234]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
-[2016.11.30-07.42.19:483][234]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
-[2016.11.30-07.42.19:483][234]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
-[2016.11.30-07.42.20:328][234]LogEditorBuildUtils: Build time 1:18
-[2016.11.30-07.42.20:725][239]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
-[2016.11.30-07.42.20:739][239]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
-[2016.11.30-07.42.20:806][241]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Fluorescent_Glow, compiling. 
-[2016.11.30-07.42.20:817][241]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Fluorescent_Glow, compiling. 
-[2016.11.30-07.52.06:051][279]LogSavePackage: Save=5877.37ms
-[2016.11.30-07.52.06:052][279]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBase2_Auto29BB24EE9499B6F92D19A58B4BC70AB2E.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/Autosaves/Game/Maps/MartianBase2_Auto2.umap'
-[2016.11.30-07.52.06:080][279]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/Autosaves/Game/Maps/MartianBase2_Auto2.umap
-[2016.11.30-07.52.06:105][279]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MartianBase2' took 6.031
-[2016.11.30-07.52.06:105][279]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 6.031
-[2016.11.30-07.55.57:789][946]LightingResults:Warning: Warning <None> Object has overlapping UVs.
-[2016.11.30-07.55.57:789][946]LightingResults: Info <None> Lightmap UV are overlapping by 6.7%. Please adjust content - Enable Error Coloring to visualize.
-[2016.11.30-07.56.02:816][961]LightingResults:Warning: Warning <None> Object has overlapping UVs.
-[2016.11.30-07.56.02:816][961]LightingResults: Info <None> Lightmap UV are overlapping by 33.3%. Please adjust content - Enable Error Coloring to visualize.
-[2016.11.30-07.56.03:467][963]Job is a success!
-[2016.11.30-07.56.25:091][964]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
-[2016.11.30-07.56.25:091][964]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
-[2016.11.30-07.56.25:091][964]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
-[2016.11.30-07.56.25:091][964]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
-[2016.11.30-07.56.25:091][964]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT)
-[2016.11.30-07.56.25:091][964]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1)
-[2016.11.30-07.56.25:092][964]LogTexture:Display: Building textures: HQ_Lightmap0_4 (AutoDXT)
-[2016.11.30-07.56.25:092][964]LogTexture:Display: Building textures: LQ_Lightmap_0_4 (DXT1)
-[2016.11.30-07.56.25:092][964]LogTexture:Display: Building textures: HQ_Lightmap0_5 (AutoDXT)
-[2016.11.30-07.56.25:092][964]LogTexture:Display: Building textures: LQ_Lightmap_0_5 (DXT1)
-[2016.11.30-07.56.25:092][964]LogTexture:Display: Building textures: HQ_Lightmap0_6 (AutoDXT)
-[2016.11.30-07.56.25:092][964]LogTexture:Display: Building textures: LQ_Lightmap_0_6 (DXT1)
-[2016.11.30-07.56.27:621][964]LogTexture:Display: Building textures: ShadowMapTexture2D_0 (BGRA8)
-[2016.11.30-07.56.27:621][964]LogTexture:Display: Building textures: ShadowMapTexture2D_1 (BGRA8)
-[2016.11.30-07.56.27:621][964]LogTexture:Display: Building textures: ShadowMapTexture2D_2 (BGRA8)
-[2016.11.30-07.56.27:621][964]LogTexture:Display: Building textures: ShadowMapTexture2D_3 (BGRA8)
-[2016.11.30-07.56.27:621][964]LogTexture:Display: Building textures: ShadowMapTexture2D_4 (BGRA8)
-[2016.11.30-07.56.27:828][964]Lightmass on PODIGI: 4:33 min total, 14.2 sec importing, 452 ms setup, 38.5 sec photons, 3:39 min processing, 0 ms extra exporting [2658/2658 mappings]. Threads: 14:39 min total, 9:11 min processing.
-[2016.11.30-07.56.28:563][964]LogStaticLightingSystem: Illumination: 14:28 min (17.3 sec encoding lightmaps, 2.49 sec encoding shadowmaps)
-[2016.11.30-07.56.28:563][964]LogStaticLightingSystem: Lightmap texture memory:  6.2 MB (0.2 MB streaming, 6.0 MB non-streaming), 12 textures
-[2016.11.30-07.56.28:563][964]LogStaticLightingSystem: Shadowmap texture memory: 13.6 MB (0.2 MB streaming, 13.3 MB non-streaming), 5 textures
-[2016.11.30-07.56.29:659][965]Cmd: MAP CHECK NOTIFYRESULTS
-[2016.11.30-07.56.29:660][965]MapCheck: New page: MartianBase2 - Nov 29, 2016, 3:56:29 PM
-[2016.11.30-07.56.29:894][965]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 233.337ms to complete.
-[2016.11.30-07.57.34:202][565]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
-[2016.11.30-08.02.25:390][625]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
-[2016.11.30-08.02.31:161][897]Cmd: DELETE
-[2016.11.30-08.02.31:161][897]Cmd: ACTOR DELETE
-[2016.11.30-08.02.31:189][897]LogEditorActor: Deleted Actor: Pawn
-[2016.11.30-08.02.31:233][897]LogEditorActor: Deleted 1 Actors (0.072 secs)
-[2016.11.30-08.03.19:771][553]LogSavePackage: Save=1839.85ms
-[2016.11.30-08.03.19:772][553]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBase2_Auto35CF0CD0E45F0A3C68439C1BC934EF50D.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/Autosaves/Game/Maps/MartianBase2_Auto3.umap'
-[2016.11.30-08.03.19:774][553]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/Autosaves/Game/Maps/MartianBase2_Auto3.umap
-[2016.11.30-08.03.19:776][553]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MartianBase2' took 1.904
-[2016.11.30-08.03.19:776][553]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.904
-[2016.11.30-08.09.15:982][  2]LogAIModule: Creating AISystem for world MartianBase
-[2016.11.30-08.09.22:226][  2]Cmd: MAP LOAD FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2016.11.30-08.09.22:228][  2]LightingResults: New page: Lighting Build
-[2016.11.30-08.09.22:240][  2]LoadErrors: New page: Loading map: MartianBase.umap
-[2016.11.30-08.09.22:255][  2]MapCheck: New page: Map Check
-[2016.11.30-08.09.22:255][  2]LightingResults: New page: Lighting Build
-[2016.11.30-08.09.22:462][  2]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2016.11.30-08.09.22:547][  2]Cmd: MAP CHECKDEP NOCLEARLOG
-[2016.11.30-08.09.22:646][  2]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 99.098ms to complete.
-[2016.11.30-08.09.22:684][  2]LogFileHelpers: Loading map 'MartianBase' took 0.460
-[2016.11.30-08.09.42:249][781]LogActorFactory: Actor Factory created Cone
-[2016.11.30-08.09.44:872][852]LogActorFactory: Actor Factory created Cone
-[2016.11.30-08.13.04:799][ 61]LogActorFactory: Actor Factory created Sphere
-[2016.11.30-08.13.06:391][ 96]LogActorFactory: Actor Factory created Sphere
-[2016.11.30-08.13.16:593][660]Cmd: DELETE
-[2016.11.30-08.13.16:593][660]Cmd: ACTOR DELETE
-[2016.11.30-08.13.16:613][660]LogEditorActor: Deleted Actor: StaticMeshActor
-[2016.11.30-08.13.16:667][660]LogEditorActor: Deleted 1 Actors (0.073 secs)
-[2016.11.30-08.13.20:523][884]LogActorFactory: Actor Factory created Cube
-[2016.11.30-08.13.21:966][912]LogActorFactory: Actor Factory created Cube
-[2016.11.30-08.13.37:999][658]Cmd: DELETE
-[2016.11.30-08.13.37:999][658]Cmd: ACTOR DELETE
-[2016.11.30-08.13.38:022][658]LogEditorActor: Deleted Actor: StaticMeshActor
-[2016.11.30-08.13.38:058][658]LogEditorActor: Deleted 1 Actors (0.059 secs)
-[2016.11.30-08.13.42:279][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
-[2016.11.30-08.13.49:977][129]Cmd: SELECT NONE
-[2016.11.30-08.13.53:037][202]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
-[2016.11.30-08.13.56:519][318]Cmd: SELECT NONE
-[2016.11.30-08.14.03:177][593]Cmd: SELECT NONE
-[2016.11.30-08.14.28:883][830]Cmd: SELECT NONE
-[2016.11.30-08.14.33:934][ 25]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
-[2016.11.30-08.16.44:223][715]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
-[2016.11.30-08.17.02:584][142]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor12)
-[2016.11.30-08.17.45:203][825]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
-[2016.11.30-08.17.49:659][988]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
-[2016.11.30-08.18.07:049][692]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor14)
-[2016.11.30-08.18.10:497][873]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor13)
-[2016.11.30-08.18.13:758][ 40]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor14)
-[2016.11.30-08.18.15:841][145]Cmd: SELECT NONE
-[2016.11.30-08.18.42:782][352]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor9)
-[2016.11.30-08.18.49:726][741]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor12)
-[2016.11.30-08.18.52:492][902]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush304)
-[2016.11.30-08.18.53:982][987]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor13)
-[2016.11.30-08.19.01:247][334]Cmd: SELECT NONE
-[2016.11.30-08.19.16:909][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
-[2016.11.30-08.20.07:151][537]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor16)
-[2016.11.30-08.20.54:531][ 13]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor25)
-[2016.11.30-08.20.58:147][206]Cmd: SELECT NONE
-[2016.11.30-08.21.02:369][448]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush310)
-[2016.11.30-08.21.03:849][532]LogEditorViewport: Clicking Background
-[2016.11.30-08.21.04:957][593]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor26)
-[2016.11.30-08.21.06:997][703]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor25)
-[2016.11.30-08.21.09:643][850]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush24)
-[2016.11.30-08.21.10:508][900]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush24)
-[2016.11.30-08.21.12:033][984]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor24)
-[2016.11.30-08.21.17:396][273]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor22)
-[2016.11.30-08.21.20:118][425]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor21)
-[2016.11.30-08.21.23:087][594]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor22)
-[2016.11.30-08.21.24:844][693]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor23)
-[2016.11.30-08.21.28:318][889]Cmd: SELECT NONE
-[2016.11.30-08.21.47:294][428]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor26)
-[2016.11.30-08.21.48:017][465]Cmd: DELETE
-[2016.11.30-08.21.48:017][465]Cmd: ACTOR DELETE
-[2016.11.30-08.21.48:040][465]LogEditorActor: Deleted Actor: Actor
-[2016.11.30-08.21.48:080][465]LogEditorActor: Deleted 1 Actors (0.063 secs)
-[2016.11.30-08.22.01:174][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MartianBase" FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2016.11.30-08.22.02:957][791]LogSavePackage: Save=1727.71ms
-[2016.11.30-08.22.02:957][791]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBaseE488D9224B17F146A2385FB3D7429AEC.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap'
-[2016.11.30-08.22.02:963][791]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap
-[2016.11.30-08.22.03:011][791]LogFileHelpers: Saving map 'MartianBase' took 1.935
-[2016.11.30-08.22.13:488][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone2)
-[2016.11.30-08.25.54:879][814]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
-[2016.11.30-08.26.01:993][185]LogEditorViewport: Clicking Background
-[2016.11.30-08.26.02:994][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone4)
-[2016.11.30-08.26.17:830][ 92]Cmd: SELECT NONE
-[2016.11.30-08.26.51:091][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone4)
-[2016.11.30-08.27.11:889][202]Cmd: SELECT NONE
-[2016.11.30-08.27.28:100][132]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone5)
-[2016.11.30-08.27.41:079][837]Cmd: SELECT NONE
-[2016.11.30-08.28.04:596][ 33]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone5)
-[2016.11.30-08.28.58:816][912]Cmd: SELECT NONE
-[2016.11.30-08.30.17:140][103]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor33)
-[2016.11.30-08.30.21:236][309]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor34)
-[2016.11.30-08.30.24:757][472]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor35)
-[2016.11.30-08.30.49:920][681]Cmd: SELECT NONE
-[2016.11.30-08.30.58:205][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MartianBase" FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2016.11.30-08.31.00:134][861]LogSavePackage: Save=1841.80ms
-[2016.11.30-08.31.00:134][861]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBase941F177449E16D0121F558B00EE82B95.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap'
-[2016.11.30-08.31.00:141][861]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap
-[2016.11.30-08.31.00:192][861]LogFileHelpers: Saving map 'MartianBase' took 2.077
-[2016.11.30-08.31.23:909][560]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone3)
-[2016.11.30-08.33.06:432][727]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.154 s
-[2016.11.30-08.33.06:432][727]LogOutputDevice:Error: === Handled ensure: ===
-[2016.11.30-08.33.06:432][727]LogOutputDevice:Error: 
-[2016.11.30-08.33.06:432][727]LogOutputDevice:Error: Ensure condition failed: TabBeingDraggedPtr.IsValid() [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Runtime\Slate\Private\Framework\Docking\SDockingTabWell.cpp] [Line: 375]
-[2016.11.30-08.33.06:432][727]LogOutputDevice:Error: 
-[2016.11.30-08.33.06:432][727]LogOutputDevice:Error: Stack: 
-[2016.11.30-08.33.06:432][727]LogOutputDevice:Error: UE4Editor-Core.dll
-[2016.11.30-08.33.06:432][727]LogOutputDevice:Error: UE4Editor-Core.dll
-[2016.11.30-08.33.06:432][727]LogOutputDevice:Error: UE4Editor-Core.dll
-[2016.11.30-08.33.06:432][727]LogOutputDevice:Error: UE4Editor-Slate.dll
-[2016.11.30-08.33.06:432][727]LogOutputDevice:Error: UE4Editor-Slate.dll
-[2016.11.30-08.33.06:432][727]LogOutputDevice:Error: UE4Editor-Slate.dll
-[2016.11.30-08.33.06:432][727]LogOutputDevice:Error: UE4Editor-Slate.dll
-[2016.11.30-08.33.06:432][727]LogOutputDevice:Error: UE4Editor-Slate.dll
-[2016.11.30-08.33.06:432][727]LogOutputDevice:Error: UE4Editor-Slate.dll
-[2016.11.30-08.33.06:432][727]LogOutputDevice:Error: UE4Editor-Core.dll
-[2016.11.30-08.33.06:432][727]LogOutputDevice:Error: UE4Editor-Core.dll
-[2016.11.30-08.33.06:432][727]LogOutputDevice:Error: UE4Editor-Core.dll
-[2016.11.30-08.33.06:432][727]LogOutputDevice:Error: UE4Editor-Core.dll
-[2016.11.30-08.33.06:432][727]LogOutputDevice:Error: USER32.dll
-[2016.11.30-08.33.06:432][727]LogOutputDevice:Error: USER32.dll
-[2016.11.30-08.33.06:432][727]LogOutputDevice:Error: UE4Editor-Core.dll
-[2016.11.30-08.33.06:432][727]LogOutputDevice:Error: UE4Editor.exe
-[2016.11.30-08.33.06:432][727]LogOutputDevice:Error: UE4Editor.exe
-[2016.11.30-08.33.06:432][727]LogOutputDevice:Error: UE4Editor.exe
-[2016.11.30-08.33.06:432][727]LogOutputDevice:Error: UE4Editor.exe
-[2016.11.30-08.33.06:432][727]LogOutputDevice:Error: UE4Editor.exe
-[2016.11.30-08.33.06:432][727]LogOutputDevice:Error: KERNEL32.DLL
-[2016.11.30-08.33.06:432][727]LogOutputDevice:Error: ntdll.dll
-[2016.11.30-08.33.06:432][727]LogOutputDevice:Error: ntdll.dll
-[2016.11.30-08.33.06:432][727]LogOutputDevice:Error: 
-[2016.11.30-08.33.06:432][727]LogStats:                SubmitErrorReport -  0.000 s
-[2016.11.30-08.33.14:557][727]LogStats:                    SendNewReport -  8.125 s
-[2016.11.30-08.33.14:557][727]LogStats:             FDebug::EnsureFailed -  8.280 s
-[2016.11.30-08.35.30:044][741]Cmd: SELECT NONE
-[2016.11.30-08.35.36:020][ 52]Cmd: SELECT NONE
-[2016.11.30-08.35.37:635][137]Cmd: SELECT NONE
-[2016.11.30-08.35.42:823][368]Cmd: TRANSACTION UNDO
-[2016.11.30-08.35.42:823][368]LogEditorTransaction: Undo Select Brush Surface
-[2016.11.30-08.35.44:415][369]Cmd: TRANSACTION UNDO
-[2016.11.30-08.35.44:415][369]LogEditorTransaction: Undo Select None
-[2016.11.30-08.35.48:485][488]Cmd: TRANSACTION UNDO
-[2016.11.30-08.35.48:485][488]LogEditorTransaction: Undo Select Surfaces
-[2016.11.30-08.35.50:855][553]Cmd: TRANSACTION UNDO
-[2016.11.30-08.35.50:855][553]LogEditorTransaction: Undo Select Brush Surface
-[2016.11.30-08.35.54:639][646]Cmd: TRANSACTION UNDO
-[2016.11.30-08.35.54:639][646]LogEditorTransaction: Undo Select None
-[2016.11.30-08.35.56:573][691]Cmd: TRANSACTION UNDO
-[2016.11.30-08.35.56:574][691]LogEditorTransaction: Undo Select Brush Surface
-[2016.11.30-08.36.24:899][125]Cmd: SELECT NONE
-[2016.11.30-08.36.30:782][387]LogEditorViewport: Clicking on Actor (LMB): Character (Character)
-[2016.11.30-08.36.31:846][443]Cmd: DELETE
-[2016.11.30-08.36.31:846][443]Cmd: ACTOR DELETE
-[2016.11.30-08.36.31:865][443]LogEditorActor: Deleted Actor: Character
-[2016.11.30-08.36.31:911][443]LogEditorActor: Deleted 1 Actors (0.065 secs)
-[2016.11.30-08.36.50:157][926]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor47)
-[2016.11.30-08.37.07:425][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone7)
-[2016.11.30-08.37.21:128][414]Cmd: SELECT NONE
-[2016.11.30-08.37.29:414][577]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor46)
-[2016.11.30-08.37.35:172][882]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor46)
-[2016.11.30-08.37.35:322][883]LogEditorViewport: Clicking on Component (LMB): SceneComponent (DefaultSceneRoot)
-[2016.11.30-08.37.36:583][948]LogEditorViewport: Clicking on Component (context menu): SceneComponent (DefaultSceneRoot)
-[2016.11.30-08.37.38:722][ 57]LogEditorViewport: Clicking on Component (LMB): SceneComponent (DefaultSceneRoot)
-[2016.11.30-08.37.39:364][ 89]LogEditorViewport: Clicking on Component (LMB): SceneComponent (DefaultSceneRoot)
-[2016.11.30-08.37.39:427][ 89]LogEditorViewport: Clicking on Actor (double click): Actor (Actor46)
-[2016.11.30-08.37.40:348][142]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor46)
-[2016.11.30-08.37.40:484][143]LogEditorViewport: Clicking on Component (LMB): SceneComponent (DefaultSceneRoot)
-[2016.11.30-08.37.40:929][166]LogEditorViewport: Clicking on Component (LMB): SceneComponent (DefaultSceneRoot)
-[2016.11.30-08.37.41:073][169]LogEditorViewport: Clicking on Actor (double click): Actor (Actor46)
-[2016.11.30-08.37.42:970][233]Cmd: SELECT NONE
-[2016.11.30-08.39.39:540][578]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone7)
-[2016.11.30-08.40.05:526][784]Cmd: SELECT NONE
-[2016.11.30-08.41.03:679][702]Cmd: TRANSACTION UNDO
-[2016.11.30-08.41.03:679][702]LogEditorTransaction: Undo Move Actors
-[2016.11.30-08.41.03:834][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush68_8.BrushComponent0) Component already registered.
-[2016.11.30-08.41.03:834][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush104.BrushComponent0) Component already registered.
-[2016.11.30-08.41.03:836][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush97.BrushComponent0) Component already registered.
-[2016.11.30-08.41.03:839][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush109_22.BrushComponent0) Component already registered.
-[2016.11.30-08.41.03:841][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush75.BrushComponent0) Component already registered.
-[2016.11.30-08.41.03:841][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush76.BrushComponent0) Component already registered.
-[2016.11.30-08.41.03:842][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush89.BrushComponent0) Component already registered.
-[2016.11.30-08.41.03:842][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush91.BrushComponent0) Component already registered.
-[2016.11.30-08.41.03:843][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush83.BrushComponent0) Component already registered.
-[2016.11.30-08.41.03:845][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush143.BrushComponent0) Component already registered.
-[2016.11.30-08.41.03:848][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush144.BrushComponent0) Component already registered.
-[2016.11.30-08.41.03:849][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush136.BrushComponent0) Component already registered.
-[2016.11.30-08.41.03:850][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush153.BrushComponent0) Component already registered.
-[2016.11.30-08.41.03:851][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush114_33.BrushComponent0) Component already registered.
-[2016.11.30-08.41.03:851][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush115_35.BrushComponent0) Component already registered.
-[2016.11.30-08.41.03:852][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush132.BrushComponent0) Component already registered.
-[2016.11.30-08.41.03:852][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.CylinderBrush7.BrushComponent0) Component already registered.
-[2016.11.30-08.41.03:853][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush119.BrushComponent0) Component already registered.
-[2016.11.30-08.41.03:854][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush17.BrushComponent0) Component already registered.
-[2016.11.30-08.41.03:854][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush18.BrushComponent0) Component already registered.
-[2016.11.30-08.41.03:855][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush11.BrushComponent0) Component already registered.
-[2016.11.30-08.41.03:855][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.CylinderBrush2.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:015][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:015][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush5.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:018][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush59.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:018][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush60.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:019][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush52.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:020][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush71.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:022][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.CylinderBrush6.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:022][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.CylinderBrush5_16.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:022][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush45.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:022][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush46.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:023][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.LinearStairBrush2.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:024][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush256.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:024][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush257.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:026][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush270.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:027][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush263.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:029][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush271.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:030][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush242.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:030][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.CylinderBrush24.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:043][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush298.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:043][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.LinearStairBrush6.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:047][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush310.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:047][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush304.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:050][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush284.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:050][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush285.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:051][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush184.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:051][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush185.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:052][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.LinearStairBrush3.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:053][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush194.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:055][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush157.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:055][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush158.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:055][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush174.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:055][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush175.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:056][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush167.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:057][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush221.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:057][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush222.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:059][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush203.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:059][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.CylinderBrush14.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:061][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush198.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:061][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush199_25.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:062][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush212.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:062][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush213.BrushComponent0) Component already registered.
-[2016.11.30-08.41.04:063][702]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush205.BrushComponent0) Component already registered.
-[2016.11.30-08.42.13:511][391]LogEditorViewport: Clicking on Actor (LMB): Blueprint_WallSconce_C (Blueprint_WallSconce3)
-[2016.11.30-08.42.33:594][ 70]Cmd: MODE GRID=0
-[2016.11.30-08.42.46:026][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MartianBase" FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2016.11.30-08.42.47:915][617]LogSavePackage: Save=1830.18ms
-[2016.11.30-08.42.47:916][617]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBaseA4C26B5F462D12B2F40DD18DD0F256F4.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap'
-[2016.11.30-08.42.47:922][617]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap
-[2016.11.30-08.42.47:973][617]LogFileHelpers: Saving map 'MartianBase' took 2.043
-[2016.11.30-08.43.17:824][286]Cmd: SELECT NONE
-[2016.11.30-08.43.23:748][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MartianBase" FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2016.11.30-08.43.25:570][527]LogSavePackage: Save=1779.57ms
-[2016.11.30-08.43.25:570][527]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBase4788E38E412CA874BFF804861385D169.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap'
-[2016.11.30-08.43.25:575][527]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap
-[2016.11.30-08.45.13:151][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone8)
-[2016.11.30-08.48.39:373][341]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush222)
-[2016.11.30-08.48.40:861][425]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush12)
-[2016.11.30-08.48.44:447][631]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor47)
-[2016.11.30-08.48.57:779][340]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor51)
-[2016.11.30-08.49.11:808][163]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone10)
-[2016.11.30-08.49.30:501][207]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor51)
-[2016.11.30-08.50.18:707][763]Cmd: SELECT NONE
-[2016.11.30-08.51.07:803][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone10)
-[2016.11.30-08.51.24:241][542]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor64)
-[2016.11.30-08.51.41:374][485]Cmd: SELECT NONE
-[2016.11.30-08.51.44:432][664]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor67)
-[2016.11.30-08.51.54:797][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone11)
-[2016.11.30-08.52.02:927][741]Cmd: SELECT NONE
-[2016.11.30-08.52.04:343][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone11)
-[2016.11.30-08.52.18:759][639]Cmd: SELECT NONE
-[2016.11.30-08.52.37:579][677]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor66)
-[2016.11.30-08.52.41:042][878]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor67)
-[2016.11.30-08.53.41:707][ 82]Cmd: SELECT NONE
-[2016.11.30-08.54.07:092][890]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor73)
-[2016.11.30-08.54.19:757][304]Cmd: SELECT NONE
-[2016.11.30-08.54.46:171][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone11)
-[2016.11.30-08.54.59:744][832]Cmd: TRANSACTION UNDO
-[2016.11.30-08.54.59:744][832]LogEditorTransaction: Undo Clicking on Actors
-[2016.11.30-08.55.00:960][899]Cmd: TRANSACTION UNDO
-[2016.11.30-08.55.00:960][899]LogEditorTransaction: Undo Clicking on Actors
-[2016.11.30-08.55.15:326][681]Cmd: TRANSACTION UNDO
-[2016.11.30-08.55.15:326][681]LogEditorTransaction: Undo Clicking on Actors
-[2016.11.30-08.55.30:835][536]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush265)
-[2016.11.30-08.55.40:583][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MartianBase" FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2016.11.30-08.55.42:630][978]LogSavePackage: Save=1955.24ms
-[2016.11.30-08.55.42:630][978]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBase8EC7B7E349EB9F4DF4B5C7896C969933.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap'
-[2016.11.30-08.55.42:638][978]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap
-[2016.11.30-08.55.42:692][978]LogFileHelpers: Saving map 'MartianBase' took 2.192
-[2016.11.30-08.55.46:455][141]Cmd: SELECT NONE
-[2016.11.30-08.55.58:223][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone11)
-[2016.11.30-08.56.15:522][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MartianBase" FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2016.11.30-08.56.17:575][891]LogSavePackage: Save=1978.54ms
-[2016.11.30-08.56.17:575][891]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBase1F36828C45FB42963D4461886361AA23.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap'
-[2016.11.30-08.56.17:582][891]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap
-[2016.11.30-08.56.17:627][891]LogFileHelpers: Saving map 'MartianBase' took 2.194
-[2016.11.30-08.56.45:680][755]Cmd: SELECT NONE
-[2016.11.30-08.56.46:440][798]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor69)
-[2016.11.30-08.58.02:460][317]Cmd: SELECT NONE
-[2016.11.30-08.58.05:349][374]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor88)
-[2016.11.30-08.58.08:886][505]Cmd: SELECT NONE
-[2016.11.30-08.58.37:588][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MartianBase" FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2016.11.30-08.58.39:759][546]LogSavePackage: Save=2084.34ms
-[2016.11.30-08.58.39:759][546]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBase75D52830401268EED88ED896945477BC.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap'
-[2016.11.30-08.58.39:766][546]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap
-[2016.11.30-08.58.39:831][546]LogFileHelpers: Saving map 'MartianBase' took 2.335
-[2016.11.30-08.59.03:560][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone12)
-[2016.11.30-08.59.16:991][762]Cmd: SELECT NONE
-[2016.11.30-08.59.25:956][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MartianBase" FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2016.11.30-08.59.28:089][960]LogSavePackage: Save=2090.54ms
-[2016.11.30-08.59.28:089][960]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBase91048AD542671770E7CD2C8A91B7D947.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap'
-[2016.11.30-08.59.28:098][960]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap
-[2016.11.30-08.59.28:136][960]LogFileHelpers: Saving map 'MartianBase' took 2.281
-[2016.11.30-09.00.12:982][808]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor66)
-[2016.11.30-09.00.57:133][ 28]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor91)
-[2016.11.30-09.01.00:145][199]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor92)
-[2016.11.30-09.01.08:670][683]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor91)
-[2016.11.30-09.01.11:461][838]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor90)
-[2016.11.30-09.01.15:280][ 45]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor92)
-[2016.11.30-09.01.36:001][ 19]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor96)
-[2016.11.30-09.01.36:872][ 68]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor97)
-[2016.11.30-09.01.40:571][272]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor96)
-[2016.11.30-09.01.44:854][512]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor95)
-[2016.11.30-09.01.49:664][775]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor94)
-[2016.11.30-09.01.54:630][ 57]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor97)
-[2016.11.30-09.03.28:349][344]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush269)
-[2016.11.30-09.03.34:260][578]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor100)
-[2016.11.30-09.03.37:757][772]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor99)
-[2016.11.30-09.03.41:675][990]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor97)
-[2016.11.30-09.03.50:416][443]Cmd: SELECT NONE
-[2016.11.30-09.03.57:225][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MartianBase" FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2016.11.30-09.03.59:546][780]LogSavePackage: Save=2255.63ms
-[2016.11.30-09.03.59:546][780]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBase1E9982F342A12BFBA258A4BEF5D84697.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap'
-[2016.11.30-09.03.59:553][780]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap
-[2016.11.30-09.03.59:598][780]LogFileHelpers: Saving map 'MartianBase' took 2.459
-[2016.11.30-09.04.39:572][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone9)
-[2016.11.30-09.04.41:294][749]Cmd: DELETE
-[2016.11.30-09.04.41:294][749]Cmd: ACTOR DELETE
-[2016.11.30-09.04.41:316][749]LogEditorActor: Deleted Actor: StaticMeshActor
-[2016.11.30-09.04.41:358][749]LogEditorActor: Deleted 1 Actors (0.064 secs)
-[2016.11.30-09.04.52:505][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MartianBase" FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2016.11.30-09.04.54:739][992]LogSavePackage: Save=2186.17ms
-[2016.11.30-09.04.54:740][992]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBase2D1EE12E46C4372A21854EB0170CBD92.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap'
-[2016.11.30-09.04.54:748][992]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap
-[2016.11.30-09.04.54:788][992]LogFileHelpers: Saving map 'MartianBase' took 2.391
-[2016.11.30-09.05.07:843][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone11)
-[2016.11.30-09.05.14:543][466]Cmd: TRANSACTION UNDO
-[2016.11.30-09.05.14:543][466]LogEditorTransaction: Undo Move Actors
-[2016.11.30-09.05.45:983][686]Cmd: SELECT NONE
-[2016.11.30-09.05.53:105][865]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor72)
-[2016.11.30-09.06.41:360][392]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor103)
-[2016.11.30-09.06.43:802][530]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush7)
-[2016.11.30-09.06.44:798][585]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor104)
-[2016.11.30-09.06.49:043][827]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor105)
-[2016.11.30-09.06.53:050][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone13)
-[2016.11.30-09.06.55:791][193]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor102)
-[2016.11.30-09.06.59:390][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone13)
-[2016.11.30-09.07.04:760][682]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor110)
-[2016.11.30-09.07.13:231][124]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor112)
-[2016.11.30-09.07.36:765][379]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor107)
-[2016.11.30-09.07.39:850][550]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush135)
-[2016.11.30-09.07.40:942][611]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor108)
-[2016.11.30-09.07.44:101][773]Cmd: SELECT NONE
-[2016.11.30-09.07.45:945][806]LogEditorViewport: Clicking on Actor (context menu): Brush (Spiral Stair Brush)
-[2016.11.30-09.07.50:275][ 43]Cmd: TRANSACTION UNDO
-[2016.11.30-09.07.50:275][ 43]LogEditorTransaction: Undo Clicking on Actors (context menu)
-[2016.11.30-09.07.52:358][156]Cmd: TRANSACTION UNDO
-[2016.11.30-09.07.52:358][156]LogEditorTransaction: Undo Select None
-[2016.11.30-09.07.55:412][333]Cmd: SELECT NONE
-[2016.11.30-09.07.56:403][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MartianBase" FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2016.11.30-09.07.58:904][382]LogSavePackage: Save=2457.24ms
-[2016.11.30-09.07.58:904][382]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBase93A77918490E8CC9581CF892EE9EC64F.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap'
-[2016.11.30-09.07.58:911][382]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap
-[2016.11.30-09.07.58:954][382]LogFileHelpers: Saving map 'MartianBase' took 2.650
-[2016.11.30-09.08.13:883][948]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush7)
-[2016.11.30-09.08.14:887][  4]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone13)
-[2016.11.30-09.08.48:438][510]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor110)
-[2016.11.30-09.08.57:763][  5]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor102)
-[2016.11.30-09.09.02:914][291]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor119)
-[2016.11.30-09.09.41:105][367]Cmd: SELECT NONE
-[2016.11.30-09.09.43:135][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MartianBase" FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2016.11.30-09.09.45:821][477]LogSavePackage: Save=2610.42ms
-[2016.11.30-09.09.45:821][477]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBaseBFA153524307678CA0DE7D86A2CEA587.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap'
-[2016.11.30-09.09.45:829][477]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap
-[2016.11.30-09.09.45:871][477]LogFileHelpers: Saving map 'MartianBase' took 2.819
-[2016.11.30-09.09.49:197][594]Cmd: SELECT NONE
-[2016.11.30-09.12.42:091][512]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone3)
-[2016.11.30-09.14.35:122][400]Cmd: SELECT NONE
-[2016.11.30-09.15.38:050][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone9)
-[2016.11.30-09.15.43:539][521]Cmd: SELECT NONE
-[2016.11.30-09.16.36:764][349]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor128)
-[2016.11.30-09.17.26:519][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MartianBase" FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2016.11.30-09.17.29:213][146]LogSavePackage: Save=2633.80ms
-[2016.11.30-09.17.29:213][146]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBase3A32F56B44C82F874DD1AC895ABA570B.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap'
-[2016.11.30-09.17.29:220][146]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap
-[2016.11.30-09.17.29:268][146]LogFileHelpers: Saving map 'MartianBase' took 2.860
-[2016.11.30-09.17.46:619][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone9)
-[2016.11.30-09.17.58:003][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MartianBase" FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2016.11.30-09.18.00:787][ 68]LogSavePackage: Save=2737.36ms
-[2016.11.30-09.18.00:788][ 68]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBase850B84E44F15CDB1A655B29AF74CF4BC.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap'
-[2016.11.30-09.18.00:795][ 68]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap
-[2016.11.30-09.18.00:865][ 68]LogFileHelpers: Saving map 'MartianBase' took 2.955
-[2016.11.30-09.18.36:443][669]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor134)
-[2016.11.30-09.18.40:419][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone15)
-[2016.11.30-09.18.45:280][  8]Cmd: SELECT NONE
-[2016.11.30-09.18.46:013][ 50]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor140)
-[2016.11.30-09.19.10:775][818]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor141)
-[2016.11.30-09.19.15:462][ 50]Cmd: SELECT NONE
-[2016.11.30-09.19.16:359][101]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor142)
-[2016.11.30-09.20.38:770][795]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor141)
-[2016.11.30-09.20.50:267][227]Cmd: SELECT NONE
-[2016.11.30-09.20.59:736][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MartianBase" FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2016.11.30-09.21.02:504][445]LogSavePackage: Save=2708.11ms
-[2016.11.30-09.21.02:504][445]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBase8D00C96F4EBCBC2844B552914113B87D.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap'
-[2016.11.30-09.21.02:511][445]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap
-[2016.11.30-09.21.02:567][445]LogFileHelpers: Saving map 'MartianBase' took 2.914
-[2016.11.30-09.21.11:516][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone15)
-[2016.11.30-09.21.21:109][ 85]Cmd: SELECT NONE
-[2016.11.30-09.21.25:090][182]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor142)
-[2016.11.30-09.21.30:153][423]Cmd: SELECT NONE
-[2016.11.30-09.21.38:309][658]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor141)
-[2016.11.30-09.21.42:545][874]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor150)
-[2016.11.30-09.21.44:573][931]Cmd: DELETE
-[2016.11.30-09.21.44:573][931]Cmd: ACTOR DELETE
-[2016.11.30-09.21.44:593][931]LogEditorActor: Deleted Actor: Actor
-[2016.11.30-09.21.44:636][931]LogEditorActor: Deleted 1 Actors (0.062 secs)
-[2016.11.30-09.21.46:072][ 15]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor149)
-[2016.11.30-09.21.50:321][209]Cmd: SELECT NONE
-[2016.11.30-09.21.56:223][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MartianBase" FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2016.11.30-09.21.58:982][332]LogSavePackage: Save=2711.08ms
-[2016.11.30-09.21.58:982][332]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBase17997DDD4B761D271003B2AAC239191B.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap'
-[2016.11.30-09.21.59:160][332]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap
-[2016.11.30-09.21.59:199][332]LogFileHelpers: Saving map 'MartianBase' took 3.073
-[2016.11.30-09.23.54:905][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone9)
-[2016.11.30-09.24.14:225][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MartianBase" FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2016.11.30-09.24.16:941][322]LogSavePackage: Save=2654.63ms
-[2016.11.30-09.24.16:941][322]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBase1F16B1534B16A7FC55143198E3FECB7B.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap'
-[2016.11.30-09.24.16:947][322]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap
-[2016.11.30-09.24.16:997][322]LogFileHelpers: Saving map 'MartianBase' took 2.856
-[2016.11.30-09.24.26:412][874]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush282)
-[2016.11.30-09.24.30:415][102]Cmd: SELECT NONE
-[2016.11.30-09.24.36:950][452]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush62)
-[2016.11.30-09.24.39:016][566]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush55)
-[2016.11.30-09.25.16:310][ 60]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush312)
-[2016.11.30-09.25.17:595][ 60]Cmd: SELECT NONE
-[2016.11.30-09.25.27:772][648]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone16)
-[2016.11.30-09.25.35:312][ 78]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor138)
-[2016.11.30-09.26.25:454][938]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor152)
-[2016.11.30-09.27.18:704][974]Cmd: SELECT NONE
-[2016.11.30-09.27.21:174][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MartianBase" FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2016.11.30-09.27.24:013][100]LogSavePackage: Save=2761.71ms
-[2016.11.30-09.27.24:013][100]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBase5212F98E48BFE9CA154A3496440A9774.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap'
-[2016.11.30-09.27.24:021][100]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap
-[2016.11.30-09.27.24:075][100]LogFileHelpers: Saving map 'MartianBase' took 2.992
-[2016.11.30-09.27.33:355][629]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush312)
-[2016.11.30-09.28.31:965][820]Cmd: SELECT NONE
-[2016.11.30-09.28.49:245][307]Cmd: SELECT NONE
-[2016.11.30-09.29.02:135][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MartianBase" FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2016.11.30-09.29.04:985][594]LogSavePackage: Save=2797.01ms
-[2016.11.30-09.29.04:985][594]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBase7F622D774D9C848B62B59C8C14BADDA4.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap'
-[2016.11.30-09.29.05:044][594]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap
-[2016.11.30-09.29.05:089][594]LogFileHelpers: Saving map 'MartianBase' took 3.055
-[2016.11.30-09.29.54:888][836]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CornerFrame)
-[2016.11.30-09.29.56:601][931]Cmd: DELETE
-[2016.11.30-09.29.56:602][931]Cmd: ACTOR DELETE
-[2016.11.30-09.29.56:622][931]LogEditorActor: Deleted Actor: StaticMeshActor
-[2016.11.30-09.29.56:668][931]LogEditorActor: Deleted 1 Actors (0.066 secs)
-[2016.11.30-09.30.02:174][190]LogActorFactory: Actor Factory created Cube
-[2016.11.30-09.30.03:807][243]LogActorFactory: Actor Factory created Cube
-[2016.11.30-09.31.19:309][318]Cmd: MODE SCALEGRID=0
-[2016.11.30-09.31.32:808][839]Cmd: SELECT NONE
-[2016.11.30-09.31.38:329][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
-[2016.11.30-09.31.43:689][255]Cmd: SELECT NONE
-[2016.11.30-09.31.45:943][315]Cmd: SELECT NONE
-[2016.11.30-09.31.51:402][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MartianBase" FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2016.11.30-09.31.54:235][460]LogSavePackage: Save=2737.60ms
-[2016.11.30-09.31.54:235][460]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBaseD7DF388A40A4D69E6A258CAAAF24592F.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap'
-[2016.11.30-09.31.54:241][460]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap
-[2016.11.30-09.31.54:290][460]LogFileHelpers: Saving map 'MartianBase' took 2.974
-[2016.11.30-09.31.57:460][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
-[2016.11.30-09.32.02:216][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MartianBase" FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2016.11.30-09.32.05:010][877]LogSavePackage: Save=2728.38ms
-[2016.11.30-09.32.05:010][877]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBaseA18D6AC3404925DF175B09BD4ADE79E4.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap'
-[2016.11.30-09.32.05:017][877]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap
-[2016.11.30-09.32.05:062][877]LogFileHelpers: Saving map 'MartianBase' took 2.934
-[2016.11.30-09.32.14:508][418]Cmd: SELECT NONE
-[2016.11.30-09.32.43:347][566]Cmd: SELECT NONE
-[2016.11.30-09.32.58:519][920]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
-[2016.11.30-09.33.26:475][796]Cmd: MODE ROTGRID=0
-[2016.11.30-09.33.34:642][204]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush220)
-[2016.11.30-09.33.36:199][291]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush22)
-[2016.11.30-09.33.37:676][371]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CornerFrame2)
-[2016.11.30-09.33.38:766][432]Cmd: DELETE
-[2016.11.30-09.33.38:766][432]Cmd: ACTOR DELETE
-[2016.11.30-09.33.38:787][432]LogEditorActor: Deleted Actor: StaticMeshActor
-[2016.11.30-09.33.38:829][432]LogEditorActor: Deleted 1 Actors (0.063 secs)
-[2016.11.30-09.33.40:007][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
-[2016.11.30-09.34.13:773][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
-[2016.11.30-09.35.25:885][178]Cmd: SELECT NONE
-[2016.11.30-09.35.33:109][400]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
-[2016.11.30-09.35.47:398][ 86]Cmd: SELECT NONE
-[2016.11.30-09.35.56:185][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MartianBase" FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2016.11.30-09.35.58:997][287]LogSavePackage: Save=2765.73ms
-[2016.11.30-09.35.58:997][287]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBase0ED7ED1E418CF9CC1FE451A46912949F.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap'
-[2016.11.30-09.35.59:012][287]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap
-[2016.11.30-09.35.59:073][287]LogFileHelpers: Saving map 'MartianBase' took 2.992
-[2016.11.30-09.36.01:889][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
-[2016.11.30-09.36.11:593][828]Cmd: SELECT NONE
-[2016.11.30-09.36.17:053][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MartianBase" FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2016.11.30-09.36.19:825][968]LogSavePackage: Save=2723.33ms
-[2016.11.30-09.36.19:825][968]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBaseF6120219407FD11F310C9A9D05545443.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap'
-[2016.11.30-09.36.19:832][968]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap
-[2016.11.30-09.36.19:876][968]LogFileHelpers: Saving map 'MartianBase' took 2.906
-[2016.11.30-09.36.46:015][285]LogActorFactory: Actor Factory created SM_Couch
-[2016.11.30-09.36.48:160][344]LogActorFactory: Actor Factory created SM_Couch
-[2016.11.30-09.36.51:988][427]Cmd: DELETE
-[2016.11.30-09.36.51:988][427]Cmd: ACTOR DELETE
-[2016.11.30-09.36.52:019][427]LogEditorActor: Deleted Actor: StaticMeshActor
-[2016.11.30-09.36.52:070][427]LogEditorActor: Deleted 1 Actors (0.082 secs)
-[2016.11.30-09.36.53:202][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MartianBase" FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2016.11.30-09.36.56:046][486]LogSavePackage: Save=2783.43ms
-[2016.11.30-09.36.56:046][486]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBaseDB5794F740AC0D63F91888881A7B5CF3.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap'
-[2016.11.30-09.36.56:053][486]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap
-[2016.11.30-09.36.56:100][486]LogFileHelpers: Saving map 'MartianBase' took 2.982
-[2016.11.30-09.37.04:024][854]LogActorFactory: Actor Factory created SM_MatPreviewMesh_02
-[2016.11.30-09.37.05:229][876]LogActorFactory: Actor Factory created SM_MatPreviewMesh_02
-[2016.11.30-09.37.14:514][ 83]Cmd: DELETE
-[2016.11.30-09.37.14:514][ 83]Cmd: ACTOR DELETE
-[2016.11.30-09.37.14:533][ 83]LogEditorActor: Deleted Actor: StaticMeshActor
-[2016.11.30-09.37.14:572][ 83]LogEditorActor: Deleted 1 Actors (0.058 secs)
-[2016.11.30-09.37.19:371][286]LogTexture:Display: Building textures: T_Rock_Basalt_D (AutoDXT)
-[2016.11.30-09.37.29:388][286]LogTexture:Display: Building textures: T_RockMesh_N (BC5)
-[2016.11.30-09.37.30:896][286]LogTexture:Display: Building textures: T_RockMesh_M (DXT1)
-[2016.11.30-09.37.34:658][286]LogActorFactory: Actor Factory created SM_Rock
-[2016.11.30-09.37.34:700][286]LogActorFactory: Actor Factory created SM_Rock
-[2016.11.30-09.37.37:490][445]Cmd: DELETE
-[2016.11.30-09.37.37:491][445]Cmd: ACTOR DELETE
-[2016.11.30-09.37.37:508][445]LogEditorActor: Deleted Actor: StaticMeshActor
-[2016.11.30-09.37.37:550][445]LogEditorActor: Deleted 1 Actors (0.059 secs)
-[2016.11.30-09.38.20:092][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MartianBase" FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2016.11.30-09.38.22:957][992]LogSavePackage: Save=2788.23ms
-[2016.11.30-09.38.22:957][992]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBase60CD8D3C446E4E86DA65EC949C749982.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap'
-[2016.11.30-09.38.22:967][992]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap
-[2016.11.30-09.38.23:028][992]LogFileHelpers: Saving map 'MartianBase' took 3.034
-[2016.11.30-09.38.52:245][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MartianBase" FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2016.11.30-09.38.55:046][712]LogSavePackage: Save=2755.84ms
-[2016.11.30-09.38.55:046][712]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBaseC4C5AD4848A95CA395165282804639E9.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap'
-[2016.11.30-09.38.55:050][712]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap
-[2016.11.30-09.40.13:024][346]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
-[2016.11.30-09.40.13:025][346]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
-[2016.11.30-09.40.13:886][347]Cmd: QUIT_EDITOR
-[2016.11.30-09.40.14:145][347]LogExit: Preparing to exit.
-[2016.11.30-09.40.15:455][347]LogDirectoryWatcher: A directory notification for 'C:/Users/Adam/Documents/Unreal Projects/Greg/Content/' was aborted.
-[2016.11.30-09.40.15:987][347]LogExit: Editor shut down
-[2016.11.30-09.40.15:988][347]LogExit: Transaction tracking system shut down
-[2016.11.30-09.40.20:145][347]LogObj: Freed 0b from 0 cluster array pools.
-[2016.11.30-09.40.20:145][347]LogExit: Object subsystem successfully closed.
-[2016.11.30-09.40.20:645][347]LogD3D11RHI: Shutdown
-[2016.11.30-09.40.20:645][347]LogD3D11RHI: CleanupD3DDevice
-[2016.11.30-09.40.23:745][347]LogD3D11RHI: ~FD3D11DynamicRHI
-[2016.11.30-09.40.24:907][347]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (233)
-[2016.11.30-09.40.24:907][347]LogModuleManager: Shutting down and abandoning module CrashTracker (232)
-[2016.11.30-09.40.24:937][347]LogModuleManager: Shutting down and abandoning module WidgetCarousel (231)
-[2016.11.30-09.40.24:937][347]LogModuleManager: Shutting down and abandoning module AddContentDialog (230)
-[2016.11.30-09.40.24:958][347]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/4.13/FeaturePacks/' was aborted.
-[2016.11.30-09.40.24:974][347]LogModuleManager: Shutting down and abandoning module GameplayTags (229)
-[2016.11.30-09.40.24:974][347]LogModuleManager: Shutting down and abandoning module EditorWidgets (228)
-[2016.11.30-09.40.24:974][347]LogModuleManager: Shutting down and abandoning module CollectionManager (227)
-[2016.11.30-09.40.25:004][347]LogDirectoryWatcher: A directory notification for 'C:/Users/Adam/Documents/Unreal Projects/Greg/Content/Collections/' was aborted.
-[2016.11.30-09.40.25:005][347]LogDirectoryWatcher: A directory notification for 'C:/Users/Adam/Documents/Unreal Projects/Greg/Content/Developers/Adam/Collections/' was aborted.
-[2016.11.30-09.40.25:005][347]LogDirectoryWatcher: A directory notification for 'C:/Users/Adam/Documents/Unreal Projects/Greg/Saved/Collections/' was aborted.
-[2016.11.30-09.40.25:005][347]LogModuleManager: Shutting down and abandoning module SceneOutliner (226)
-[2016.11.30-09.40.25:005][347]LogModuleManager: Shutting down and abandoning module StatsViewer (225)
-[2016.11.30-09.40.25:006][347]LogModuleManager: Shutting down and abandoning module FoliageEdit (224)
-[2016.11.30-09.40.25:007][347]LogModuleManager: Shutting down and abandoning module LandscapeEditor (223)
-[2016.11.30-09.40.25:008][347]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (222)
-[2016.11.30-09.40.25:008][347]LogModuleManager: Shutting down and abandoning module ActorPickerMode (221)
-[2016.11.30-09.40.25:008][347]LogModuleManager: Shutting down and abandoning module GeometryMode (220)
-[2016.11.30-09.40.25:008][347]LogModuleManager: Shutting down and abandoning module TextureAlignMode (219)
-[2016.11.30-09.40.25:009][347]LogModuleManager: Shutting down and abandoning module BspMode (218)
-[2016.11.30-09.40.25:009][347]LogModuleManager: Shutting down and abandoning module HardwareSurvey (217)
-[2016.11.30-09.40.25:009][347]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (216)
-[2016.11.30-09.40.25:021][347]LogModuleManager: Shutting down and abandoning module SequenceRecorder (215)
-[2016.11.30-09.40.25:022][347]LogModuleManager: Shutting down and abandoning module AutomationWorker (214)
-[2016.11.30-09.40.25:022][347]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (213)
-[2016.11.30-09.40.25:029][347]LogModuleManager: Shutting down and abandoning module PlacementMode (212)
-[2016.11.30-09.40.25:088][347]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (211)
-[2016.11.30-09.40.25:109][347]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (210)
-[2016.11.30-09.40.25:109][347]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (209)
-[2016.11.30-09.40.25:109][347]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (208)
-[2016.11.30-09.40.25:109][347]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (207)
-[2016.11.30-09.40.25:109][347]LogModuleManager: Shutting down and abandoning module Media (206)
-[2016.11.30-09.40.25:109][347]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (205)
-[2016.11.30-09.40.25:109][347]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (204)
-[2016.11.30-09.40.25:109][347]LogModuleManager: Shutting down and abandoning module CharacterAI (203)
-[2016.11.30-09.40.25:109][347]LogModuleManager: Shutting down and abandoning module SmartSnapping (202)
-[2016.11.30-09.40.25:109][347]LogModuleManager: Shutting down and abandoning module SessionServices (201)
-[2016.11.30-09.40.25:109][347]LogModuleManager: Shutting down and abandoning module ViewportSnapping (200)
-[2016.11.30-09.40.25:109][347]LogModuleManager: Shutting down and abandoning module ViewportInteraction (199)
-[2016.11.30-09.40.25:109][347]LogModuleManager: Shutting down and abandoning module LogVisualizer (198)
-[2016.11.30-09.40.25:110][347]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (197)
-[2016.11.30-09.40.25:121][347]LogModuleManager: Shutting down and abandoning module IntroTutorials (196)
-[2016.11.30-09.40.25:136][347]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (195)
-[2016.11.30-09.40.25:136][347]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (194)
-[2016.11.30-09.40.25:137][347]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (193)
-[2016.11.30-09.40.25:137][347]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (192)
-[2016.11.30-09.40.25:974][347]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (191)
-[2016.11.30-09.40.26:007][347]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (190)
-[2016.11.30-09.40.26:007][347]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (189)
-[2016.11.30-09.40.26:007][347]LogModuleManager: Shutting down and abandoning module NiagaraEditor (188)
-[2016.11.30-09.40.26:009][347]LogModuleManager: Shutting down and abandoning module MergeActors (187)
-[2016.11.30-09.40.26:010][347]LogModuleManager: Shutting down and abandoning module SizeMap (186)
-[2016.11.30-09.40.26:017][347]LogModuleManager: Shutting down and abandoning module TreeMap (185)
-[2016.11.30-09.40.26:024][347]LogModuleManager: Shutting down and abandoning module ReferenceViewer (184)
-[2016.11.30-09.40.26:024][347]LogModuleManager: Shutting down and abandoning module LocalizationService (183)
-[2016.11.30-09.40.26:024][347]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (182)
-[2016.11.30-09.40.26:053][347]LogModuleManager: Shutting down and abandoning module HardwareTargeting (181)
-[2016.11.30-09.40.26:054][347]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (180)
-[2016.11.30-09.40.26:191][347]LogModuleManager: Shutting down and abandoning module UndoHistory (179)
-[2016.11.30-09.40.26:209][347]LogModuleManager: Shutting down and abandoning module UserFeedback (178)
-[2016.11.30-09.40.26:222][347]LogModuleManager: Shutting down and abandoning module XmlParser (177)
-[2016.11.30-09.40.26:222][347]LogModuleManager: Shutting down and abandoning module Blutility (176)
-[2016.11.30-09.40.26:223][347]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (175)
-[2016.11.30-09.40.26:224][347]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (174)
-[2016.11.30-09.40.26:224][347]LogModuleManager: Shutting down and abandoning module InputBindingEditor (173)
-[2016.11.30-09.40.26:254][347]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (172)
-[2016.11.30-09.40.26:509][347]LogModuleManager: Shutting down and abandoning module SettingsEditor (171)
-[2016.11.30-09.40.26:593][347]LogModuleManager: Shutting down and abandoning module ProjectLauncher (170)
-[2016.11.30-09.40.26:626][347]LogModuleManager: Shutting down and abandoning module SessionFrontend (169)
-[2016.11.30-09.40.26:656][347]LogModuleManager: Shutting down and abandoning module ProfilerClient (168)
-[2016.11.30-09.40.26:688][347]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (167)
-[2016.11.30-09.40.26:688][347]LogModuleManager: Shutting down and abandoning module DeviceManager (166)
-[2016.11.30-09.40.26:790][347]LogModuleManager: Shutting down and abandoning module AutomationController (165)
-[2016.11.30-09.40.26:791][347]LogModuleManager: Shutting down and abandoning module AutomationWindow (164)
-[2016.11.30-09.40.27:174][347]LogModuleManager: Shutting down and abandoning module Layers (163)
-[2016.11.30-09.40.27:459][347]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (162)
-[2016.11.30-09.40.27:459][347]LogModuleManager: Shutting down and abandoning module DetailCustomizations (161)
-[2016.11.30-09.40.27:522][347]LogModuleManager: Shutting down and abandoning module PackagesDialog (160)
-[2016.11.30-09.40.27:524][347]LogModuleManager: Shutting down and abandoning module AnimGraph (159)
-[2016.11.30-09.40.27:554][347]LogModuleManager: Shutting down and abandoning module Persona (158)
-[2016.11.30-09.40.27:592][347]LogModuleManager: Shutting down and abandoning module Kismet (157)
-[2016.11.30-09.40.27:617][347]LogModuleManager: Shutting down and abandoning module GraphEditor (156)
-[2016.11.30-09.40.27:618][347]LogModuleManager: Shutting down and abandoning module ClassViewer (155)
-[2016.11.30-09.40.27:623][347]LogModuleManager: Shutting down and abandoning module Toolbox (154)
-[2016.11.30-09.40.27:641][347]LogModuleManager: Shutting down and abandoning module ModuleUI (153)
-[2016.11.30-09.40.27:642][347]LogModuleManager: Shutting down and abandoning module MovieSceneTools (152)
-[2016.11.30-09.40.27:648][347]LogModuleManager: Shutting down and abandoning module OutputLog (151)
-[2016.11.30-09.40.27:649][347]LogModuleManager: Shutting down and abandoning module GammaUI (150)
-[2016.11.30-09.40.27:650][347]LogModuleManager: Shutting down and abandoning module Documentation (149)
-[2016.11.30-09.40.27:650][347]LogModuleManager: Shutting down and abandoning module Niagara (148)
-[2016.11.30-09.40.27:651][347]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (147)
-[2016.11.30-09.40.27:651][347]LogModuleManager: Shutting down and abandoning module AnalyticsET (146)
-[2016.11.30-09.40.27:651][347]LogModuleManager: Shutting down and abandoning module PortalServices (145)
-[2016.11.30-09.40.27:651][347]LogModuleManager: Shutting down and abandoning module PortalRpc (144)
-[2016.11.30-09.40.27:651][347]LogModuleManager: Shutting down and abandoning module MessagingRpc (143)
-[2016.11.30-09.40.27:651][347]LogModuleManager: Shutting down and abandoning module GameplayDebugger (142)
-[2016.11.30-09.40.27:665][347]LogModuleManager: Shutting down and abandoning module AITestSuite (141)
-[2016.11.30-09.40.27:665][347]LogModuleManager: Shutting down and abandoning module AIModule (140)
-[2016.11.30-09.40.27:666][347]LogModuleManager: Shutting down and abandoning module ProfilerService (139)
-[2016.11.30-09.40.27:812][347]LogModuleManager: Shutting down and abandoning module TaskGraph (138)
-[2016.11.30-09.40.27:831][347]LogModuleManager: Shutting down and abandoning module SlateRemote (137)
-[2016.11.30-09.40.27:831][347]LogModuleManager: Shutting down and abandoning module SteamVRController (136)
-[2016.11.30-09.40.27:831][347]LogModuleManager: Shutting down and abandoning module SteamVR (135)
-[2016.11.30-09.40.27:831][347]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (134)
-[2016.11.30-09.40.27:852][347]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (133)
-[2016.11.30-09.40.27:878][347]LogModuleManager: Shutting down and abandoning module OculusLibrary (132)
-[2016.11.30-09.40.27:878][347]LogModuleManager: Shutting down and abandoning module OculusInput (131)
-[2016.11.30-09.40.27:878][347]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (130)
-[2016.11.30-09.40.27:878][347]LogModuleManager: Shutting down and abandoning module CableComponent (129)
-[2016.11.30-09.40.27:878][347]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (128)
-[2016.11.30-09.40.27:878][347]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (126)
-[2016.11.30-09.40.27:899][347]LogModuleManager: Shutting down and abandoning module HTML5Networking (125)
-[2016.11.30-09.40.27:899][347]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (124)
-[2016.11.30-09.40.27:899][347]LogModuleManager: Shutting down and abandoning module GeometryCache (123)
-[2016.11.30-09.40.27:899][347]LogModuleManager: Shutting down and abandoning module AlembicLibrary (122)
-[2016.11.30-09.40.27:899][347]LogModuleManager: Shutting down and abandoning module AlembicImporter (121)
-[2016.11.30-09.40.27:899][347]LogModuleManager: Shutting down and abandoning module SuperSearch (120)
-[2016.11.30-09.40.27:899][347]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (119)
-[2016.11.30-09.40.27:899][347]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (118)
-[2016.11.30-09.40.27:899][347]LogModuleManager: Shutting down and abandoning module PluginBrowser (117)
-[2016.11.30-09.40.27:901][347]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (116)
-[2016.11.30-09.40.27:903][347]LogModuleManager: Shutting down and abandoning module EpicSurvey (115)
-[2016.11.30-09.40.27:903][347]LogModuleManager: Shutting down and abandoning module DesktopPlatform (114)
-[2016.11.30-09.40.27:904][347]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (113)
-[2016.11.30-09.40.27:904][347]LogModuleManager: Shutting down and abandoning module UObjectPlugin (112)
-[2016.11.30-09.40.27:904][347]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (111)
-[2016.11.30-09.40.27:909][347]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (110)
-[2016.11.30-09.40.27:911][347]LogModuleManager: Shutting down and abandoning module SourceControl (109)
-[2016.11.30-09.40.27:927][347]LogModuleManager: Shutting down and abandoning module GitSourceControl (108)
-[2016.11.30-09.40.27:927][347]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (107)
-[2016.11.30-09.40.27:927][347]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (106)
-[2016.11.30-09.40.27:928][347]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (105)
-[2016.11.30-09.40.27:928][347]LogModuleManager: Shutting down and abandoning module MeshPaint (104)
-[2016.11.30-09.40.27:928][347]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (103)
-[2016.11.30-09.40.27:928][347]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (102)
-[2016.11.30-09.40.27:946][347]LogModuleManager: Shutting down and abandoning module HotReload (101)
-[2016.11.30-09.40.27:947][347]LogModuleManager: Shutting down and abandoning module MainFrame (100)
-[2016.11.30-09.40.27:947][347]LogModuleManager: Shutting down and abandoning module LevelEditor (99)
-[2016.11.30-09.40.27:948][347]LogModuleManager: Shutting down and abandoning module ContentBrowser (98)
-[2016.11.30-09.40.27:951][347]LogModuleManager: Shutting down and abandoning module Paper2DEditor (97)
-[2016.11.30-09.40.27:962][347]LogModuleManager: Shutting down and abandoning module UdpMessaging (96)
-[2016.11.30-09.40.28:063][347]LogModuleManager: Shutting down and abandoning module TcpMessaging (95)
-[2016.11.30-09.40.28:164][347]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (94)
-[2016.11.30-09.40.28:164][347]LogModuleManager: Shutting down and abandoning module Paper2D (93)
-[2016.11.30-09.40.28:164][347]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (92)
-[2016.11.30-09.40.28:165][347]LogModuleManager: Shutting down and abandoning module WmfMedia (91)
-[2016.11.30-09.40.28:167][347]LogModuleManager: Shutting down and abandoning module MediaAssets (90)
-[2016.11.30-09.40.28:167][347]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (89)
-[2016.11.30-09.40.28:167][347]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (88)
-[2016.11.30-09.40.28:167][347]LogModuleManager: Shutting down and abandoning module VREditor (87)
-[2016.11.30-09.40.28:168][347]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (86)
-[2016.11.30-09.40.28:168][347]LogModuleManager: Shutting down and abandoning module PropertyEditor (85)
-[2016.11.30-09.40.28:168][347]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (84)
-[2016.11.30-09.40.28:169][347]LogModuleManager: Shutting down and abandoning module FunctionalTesting (83)
-[2016.11.30-09.40.28:169][347]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (82)
-[2016.11.30-09.40.28:171][347]LogModuleManager: Shutting down and abandoning module Sequencer (81)
-[2016.11.30-09.40.28:178][347]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (80)
-[2016.11.30-09.40.28:178][347]LogModuleManager: Shutting down and abandoning module MessageLog (79)
-[2016.11.30-09.40.28:178][347]LogModuleManager: Shutting down and abandoning module AssetTools (78)
-[2016.11.30-09.40.28:193][347]LogModuleManager: Shutting down and abandoning module UMGEditor (77)
-[2016.11.30-09.40.28:208][347]LogModuleManager: Shutting down and abandoning module UMG (76)
-[2016.11.30-09.40.28:224][347]LogModuleManager: Shutting down and abandoning module SlateReflector (75)
-[2016.11.30-09.40.28:228][347]LogModuleManager: Shutting down and abandoning module Slate (74)
-[2016.11.30-09.40.28:228][347]LogModuleManager: Shutting down and abandoning module EditorStyle (73)
-[2016.11.30-09.40.28:231][347]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (72)
-[2016.11.30-09.40.28:231][347]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (71)
-[2016.11.30-09.40.28:231][347]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
-[2016.11.30-09.40.28:231][347]LogModuleManager: Shutting down and abandoning module Networking (68)
-[2016.11.30-09.40.28:231][347]LogModuleManager: Shutting down and abandoning module Core (67)
-[2016.11.30-09.40.28:231][347]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (66)
-[2016.11.30-09.40.28:231][347]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
-[2016.11.30-09.40.28:231][347]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/' was aborted.
-[2016.11.30-09.40.28:231][347]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
-[2016.11.30-09.40.28:232][347]LogModuleManager: Shutting down and abandoning module AssetRegistry (65)
-[2016.11.30-09.40.28:422][347]LogModuleManager: Shutting down and abandoning module KismetCompiler (64)
-[2016.11.30-09.40.28:422][347]LogModuleManager: Shutting down and abandoning module PhysXFormats (63)
-[2016.11.30-09.40.28:422][347]LogModuleManager: Shutting down and abandoning module MeshUtilities (62)
-[2016.11.30-09.40.28:422][347]LogModuleManager: Shutting down and abandoning module DerivedDataCache (61)
-[2016.11.30-09.40.28:445][347]LogDerivedDataCache: Shutdown
-[2016.11.30-09.40.28:445][347]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (60)
-[2016.11.30-09.40.28:446][347]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (59)
-[2016.11.30-09.40.28:447][347]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (58)
-[2016.11.30-09.40.28:448][347]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (57)
-[2016.11.30-09.40.28:449][347]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (56)
-[2016.11.30-09.40.28:453][347]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (55)
-[2016.11.30-09.40.28:454][347]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (54)
-[2016.11.30-09.40.28:454][347]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
-[2016.11.30-09.40.28:455][347]LogModuleManager: Shutting down and abandoning module ImageWrapper (52)
-[2016.11.30-09.40.28:455][347]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (51)
-[2016.11.30-09.40.28:455][347]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (50)
-[2016.11.30-09.40.28:455][347]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (49)
-[2016.11.30-09.40.28:455][347]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (48)
-[2016.11.30-09.40.28:456][347]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (47)
-[2016.11.30-09.40.28:537][347]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (46)
-[2016.11.30-09.40.28:559][347]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (45)
-[2016.11.30-09.40.28:593][347]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (44)
-[2016.11.30-09.40.28:813][347]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (43)
-[2016.11.30-09.40.28:946][347]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (42)
-[2016.11.30-09.40.28:946][347]LogModuleManager: Shutting down and abandoning module Messaging (41)
-[2016.11.30-09.40.28:946][347]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (40)
-[2016.11.30-09.40.28:946][347]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (39)
-[2016.11.30-09.40.28:947][347]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (38)
-[2016.11.30-09.40.28:947][347]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (37)
-[2016.11.30-09.40.28:949][347]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (36)
-[2016.11.30-09.40.28:951][347]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (35)
-[2016.11.30-09.40.28:951][347]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (34)
-[2016.11.30-09.40.28:951][347]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (33)
-[2016.11.30-09.40.28:951][347]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (32)
-[2016.11.30-09.40.28:951][347]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (31)
-[2016.11.30-09.40.28:951][347]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (30)
-[2016.11.30-09.40.28:954][347]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (29)
-[2016.11.30-09.40.28:963][347]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (28)
-[2016.11.30-09.40.28:964][347]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (27)
-[2016.11.30-09.40.28:974][347]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
-[2016.11.30-09.40.28:974][347]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
-[2016.11.30-09.40.28:974][347]LogModuleManager: Shutting down and abandoning module InputCore (24)
-[2016.11.30-09.40.28:974][347]LogModuleManager: Shutting down and abandoning module Settings (23)
-[2016.11.30-09.40.28:974][347]LogModuleManager: Shutting down and abandoning module OculusRift (22)
-[2016.11.30-09.40.28:983][347]LogModuleManager: Shutting down and abandoning module GearVR (21)
-[2016.11.30-09.40.28:984][347]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
-[2016.11.30-09.40.28:984][347]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
-[2016.11.30-09.40.28:984][347]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
-[2016.11.30-09.40.28:986][347]LogOnline:Display: Unloading online subsystem: NULL
-[2016.11.30-09.40.28:993][347]LogModuleManager: Shutting down and abandoning module HTTP (16)
-[2016.11.30-09.40.28:993][347]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
-[2016.11.30-09.40.29:026][347]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD9481B38-4E95-3039-95B0-748B5CD7DAFE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.2-3172292%2B%2B%2BUE4%2BRelease-4.13&UserID=87c584a04ee8aed0d3e445be8ff90ec0%7C3d21055f8d7a41feabbb69ce03ebe8e9%7Ca4f24451-a964-48d4-87c6-48e6adc7d6a3&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
-[2016.11.30-09.40.29:091][347]LogModuleManager: Shutting down and abandoning module XMPP (15)
-[2016.11.30-09.40.29:093][347]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
-[2016.11.30-09.40.29:093][347]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
-[2016.11.30-09.40.29:093][347]LogModuleManager: Shutting down and abandoning module Landscape (12)
-[2016.11.30-09.40.29:093][347]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
-[2016.11.30-09.40.29:105][347]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
-[2016.11.30-09.40.29:106][347]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
-[2016.11.30-09.40.29:106][347]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
-[2016.11.30-09.40.29:106][347]LogModuleManager: Shutting down and abandoning module Renderer (7)
-[2016.11.30-09.40.29:106][347]LogModuleManager: Shutting down and abandoning module Engine (6)
-[2016.11.30-09.40.29:106][347]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
-[2016.11.30-09.40.29:106][347]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
-[2016.11.30-09.40.29:107][347]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
-[2016.11.30-09.40.29:107][347]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
-[2016.11.30-09.40.29:107][347]LogModuleManager: Shutting down and abandoning module PakFile (1)
-[2016.11.30-09.40.29:110][347]LogExit: Exiting.
-[2016.11.30-09.40.29:112][347]Log file closed, 11/30/16 01:40:29
+[2016.12.02-17.15.42:289][  0]LogInit: Selected Device Profile: [Windows]
+[2016.12.02-17.15.42:289][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.12.02-17.15.42:386][  0]LogInit: Computer: TEMPUSER-PC
+[2016.12.02-17.15.42:386][  0]LogInit: User: TempUser
+[2016.12.02-17.15.42:386][  0]LogInit: CPU Page size=65536, Cores=2
+[2016.12.02-17.15.42:386][  0]LogInit: High frequency timer resolution =2.338334 MHz
+[2016.12.02-17.15.42:405][  0]LogMemory: Memory total: Physical=5.9GB (6GB approx)
+[2016.12.02-17.15.42:413][  0]LogMemory: Platform Memory Stats for Windows
+[2016.12.02-17.15.42:413][  0]LogMemory: Process Physical Memory: 253.88 MB used, 253.88 MB peak
+[2016.12.02-17.15.42:413][  0]LogMemory: Process Virtual Memory: 259.43 MB used, 259.43 MB peak
+[2016.12.02-17.15.42:413][  0]LogMemory: Physical Memory: 3100.19 MB used, 6066.27 MB total
+[2016.12.02-17.15.42:413][  0]LogMemory: Virtual Memory: 603.16 MB used, 134217728.00 MB total
+[2016.12.02-17.15.42:827][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2016.12.02-17.15.45:490][  0]LogD3D11RHI: D3D11 adapters:
+[2016.12.02-17.15.45:552][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 5500' (Feature Level 11_0)
+[2016.12.02-17.15.45:552][  0]LogD3D11RHI:       128/0/3033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2016.12.02-17.15.45:573][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.12.02-17.15.45:573][  0]LogD3D11RHI:       0/0/256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.12.02-17.15.45:573][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.12.02-17.15.45:597][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.12.02-17.15.45:599][  0]LogD3D11RHI:     GPU DeviceId: 0x1616 (for the marketing name, search the web for "GPU Device Id")
+[2016.12.02-17.15.45:599][  0]LogWindows: EnumDisplayDevices:
+[2016.12.02-17.15.45:599][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2016.12.02-17.15.45:599][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2016.12.02-17.15.45:600][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2016.12.02-17.15.45:600][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2016.12.02-17.15.45:600][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 5500
+[2016.12.02-17.15.45:600][  0]LogD3D11RHI:   Driver Version: 20.19.15.4501 (internal:20.19.15.4501, unified:20.19.15.4501)
+[2016.12.02-17.15.45:600][  0]LogD3D11RHI:      Driver Date: 8-11-2016
+[2016.12.02-17.15.45:600][  0]LogRHI: Texture pool is 1151 MB (70% of 1644 MB)
+[2016.12.02-17.15.45:615][  0]LogD3D11RHI: Async texture creation enabled
+[2016.12.02-17.15.46:038][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2016.12.02-17.15.46:175][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../Users/TempUser/Documents/Unreal Projects/Greg/Intermediate/Shaders/WorkingDirectory/9120/).
+[2016.12.02-17.15.46:175][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/TempUser/AppData/Local/Temp/UnrealShaderWorkingDir/67C20B1B4E797092192B15BD5507B78A/'.
+[2016.12.02-17.15.46:201][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.12.02-17.15.58:448][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.12.02-17.15.58:478][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.12.02-17.15.58:537][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.12.02-17.15.58:568][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.12.02-17.15.58:599][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.12.02-17.15.58:626][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.12.02-17.15.58:653][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.12.02-17.15.58:682][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.12.02-17.15.58:709][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.12.02-17.15.58:737][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.12.02-17.15.58:765][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.12.02-17.15.58:839][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.12.02-17.15.58:839][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.12.02-17.15.58:843][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.12.02-17.15.58:924][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.12.02-17.15.58:950][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.12.02-17.15.58:988][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.12.02-17.15.59:015][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.12.02-17.15.59:041][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.12.02-17.15.59:093][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.12.02-17.15.59:094][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.12.02-17.16.00:323][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.12.02-17.16.00:930][  0]LogDerivedDataCache: Loaded boot cache 0.60s 62MB C:/Users/TempUser/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.12.02-17.16.00:930][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/TempUser/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2016.12.02-17.16.00:931][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/TempUser/Documents/Unreal Projects/Greg/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.12.02-17.16.00:931][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.12.02-17.16.00:931][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/TempUser/Documents/Unreal Projects/Greg/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.12.02-17.16.00:931][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.12.02-17.16.01:089][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.12.02-17.16.01:112][  0]LogDerivedDataCache: Using Local data cache path C:/Users/TempUser/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.12.02-17.16.07:705][  0]LogInit: Selected Device Profile: [Windows]
+[2016.12.02-17.16.08:146][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.12.02-17.16.09:186][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.12.02-17.16.09:186][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.12.02-17.16.09:186][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.12.02-17.16.11:546][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.12.02-17.16.18:387][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: greg, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 3459958176
+[2016.12.02-17.16.18:653][  0]LogAssetRegistry: FAssetRegistry took 0.0261 seconds to start up
+[2016.12.02-17.16.18:895][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.180347 seconds
+[2016.12.02-17.16.18:973][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
+[2016.12.02-17.16.18:982][  0]LogUObjectAllocator: 6125448 out of 0 bytes used by permanent object pool.
+[2016.12.02-17.16.18:982][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.12.02-17.16.19:042][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.12.02-17.16.30:147][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.12.02-17.16.30:147][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.12.02-17.17.03:187][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2016.12.02-17.17.03:309][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.12.02-17.17.05:545][  0]SourceControl: Info Source control is disabled
+[2016.12.02-17.17.06:356][  0]SourceControl: Info Source control is disabled
+[2016.12.02-17.17.06:497][  0]SourceControl: Info Source control is disabled
+[2016.12.02-17.17.06:544][  0]SourceControl: Info Source control is disabled
+[2016.12.02-17.17.08:992][  0]LogEngine: Initializing Engine...
+[2016.12.02-17.17.09:002][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2016.12.02-17.17.10:439][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.12.02-17.17.10:892][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.02-17.17.12:891][  0]LogInit: FAudioDevice initialized.
+[2016.12.02-17.17.13:008][  0]LogDerivedDataCache: Saved boot cache 0.12s 62MB C:/Users/TempUser/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.12.02-17.17.13:036][  0]LogInit: Texture streaming: Enabled
+[2016.12.02-17.17.15:896][  0]LogInit: Transaction tracking system initialized
+[2016.12.02-17.17.17:980][  0]BlueprintLog: New page: Editor Load
+[2016.12.02-17.17.30:855][  0]LocalizationService: Info Localization service is disabled
+[2016.12.02-17.17.33:242][  0]LogConsoleResponse:Display: 
+[2016.12.02-17.17.36:798][  0]LogFileCache: Scanning file cache for directory 'C:/Users/TempUser/Documents/Unreal Projects/Greg/Content/' took 0.03s
+[2016.12.02-17.17.36:798][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.12.02-17.17.36:805][  0]LogCook:Display: Mobile HDR setting 1
+[2016.12.02-17.17.41:330][  0]SourceControl: Info Source control is disabled
+[2016.12.02-17.17.41:503][  0]Cmd: MAP LOAD FILE="../../../../../../Users/TempUser/Documents/Unreal Projects/Greg/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.12.02-17.17.41:627][  0]LightingResults: New page: Lighting Build
+[2016.12.02-17.17.42:240][  0]MapCheck: New page: Map Check
+[2016.12.02-17.17.42:241][  0]LightingResults: New page: Lighting Build
+[2016.12.02-17.18.04:855][  0]LogTexture:Display: Building textures: T_Brick_Cut_Stone_N (BC5)
+[2016.12.02-17.18.10:092][  0]LogTexture:Display: Building textures: T_Brick_Cut_Stone_D (AutoDXT)
+[2016.12.02-17.18.35:376][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2016.12.02-17.18.38:497][  0]LogEditorServer: Finished looking for orphan Actors (0.004 secs)
+[2016.12.02-17.18.38:836][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.12.02-17.18.39:236][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 379.983ms to complete.
+[2016.12.02-17.18.39:237][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 57.822
+[2016.12.02-17.18.44:211][  0]LogCollectionManager: Loaded 0 collections in 0.004464 seconds
+[2016.12.02-17.18.44:825][  0]LogFileCache: Scanning file cache for directory 'C:/Users/TempUser/Documents/Unreal Projects/Greg/Saved/Collections/' took 0.01s
+[2016.12.02-17.18.44:826][  0]LogFileCache: Scanning file cache for directory 'C:/Users/TempUser/Documents/Unreal Projects/Greg/Content/Developers/TempUser/Collections/' took 0.01s
+[2016.12.02-17.18.44:826][  0]LogFileCache: Scanning file cache for directory 'C:/Users/TempUser/Documents/Unreal Projects/Greg/Content/Collections/' took 0.01s
+[2016.12.02-17.18.44:826][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000043 seconds
+[2016.12.02-17.18.44:933][  0]LogContentBrowser: Native class hierarchy populated in 0.0671 seconds. Added 2141 classes and 415 folders.
+[2016.12.02-17.18.45:079][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.12.02-17.18.45:079][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.12.02-17.18.45:082][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0017 seconds. Added 12 classes and 0 folders.
+[2016.12.02-17.18.45:133][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0014 seconds. Added 0 classes and 0 folders.
+[2016.12.02-17.18.46:639][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0016 seconds. Added 0 classes and 0 folders.
+[2016.12.02-17.18.46:724][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0017 seconds. Added 1 classes and 2 folders.
+[2016.12.02-17.18.48:228][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.12.02-17.18.48:510][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.12.02-17.18.48:653][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0015 seconds. Added 1 classes and 2 folders.
+[2016.12.02-17.18.48:654][  0]LogLoad: (Engine Initialization) Total time: 189.47 seconds
+[2016.12.02-17.18.48:654][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 4.50 seconds
+[2016.12.02-17.18.48:676][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.12.02-17.18.48:676][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.12.02-17.18.49:131][  0]LogOcInput: OculusInput pre-init called
+[2016.12.02-17.18.50:156][  0]LogContentStreaming: Texture pool size now 400 MB
+[2016.12.02-17.18.51:869][  0]LogRenderer: Reallocating scene render targets to support 256x256 (Frame:2).
+[2016.12.02-17.18.53:716][  0]LogRenderer: Reallocating scene render targets to support 888x364 (Frame:2).
+[2016.12.02-17.18.58:767][  8]LogAssetRegistry: Asset discovery search completed in 160.1383 seconds
+[2016.12.02-17.18.58:805][  8]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2016.12.02-17.18.58:829][  8]LogCollectionManager: Fixed up redirectors for 0 collections in 0.024167 seconds (updated 0 objects)
+[2016.12.02-17.20.06:843][210]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2016.12.02-17.20.08:845][261]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.02-17.20.08:886][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.02-17.20.09:125][261]PIE: New page: PIE session: FirstPersonExampleMap (Dec 2, 2016, 1:20:08 AM)
+[2016.12.02-17.20.09:143][261]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2016.12.02-17.20.09:369][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.225513s)
+[2016.12.02-17.20.09:371][261]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2016.12.02-17.20.09:387][261]LogPlayLevel: PIE: World Init took: (0.018104s)
+[2016.12.02-17.20.09:388][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.244915s)
+[2016.12.02-17.20.09:785][261]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.02-17.20.09:815][261]LogInit: FAudioDevice initialized.
+[2016.12.02-17.20.10:101][261]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2016.12.02-17.20.10:235][261]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2016.12.02-09.20.10
+[2016.12.02-17.20.10:418][261]LogWorld: Bringing up level for play took: 0.198320
+[2016.12.02-17.20.10:617][261]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0018 seconds. Added 11 classes and 0 folders.
+[2016.12.02-17.20.10:619][261]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.02-17.20.10:639][261]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.02-17.20.10:639][261]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.02-17.20.10:748][261]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.02-17.20.10:756][261]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 2.042
+[2016.12.02-17.20.10:757][261]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExample
