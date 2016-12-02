@@ -1,0 +1,931 @@
+﻿Log file open, 11/28/16 22:41:11
+LogInit:Display: Running engine for game: Greg
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(84378633) SRandInit(84378633).
+LogTaskGraph: Started task graph with 5 named threads and 6 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.084082
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3172292
+LogInit: Engine Version: 4.13.2-3172292+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3172292
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Oct 24 2016 14:29:06
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.11.29-06.41.11:525][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.29-06.41.11:525][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.11.29-06.41.11:546][  0]LogInit: Computer: PODIGI
+[2016.11.29-06.41.11:546][  0]LogInit: User: Adam
+[2016.11.29-06.41.11:546][  0]LogInit: CPU Page size=65536, Cores=2
+[2016.11.29-06.41.11:546][  0]LogInit: High frequency timer resolution =2.533196 MHz
+[2016.11.29-06.41.11:547][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2016.11.29-06.41.11:547][  0]LogMemory: Platform Memory Stats for Windows
+[2016.11.29-06.41.11:547][  0]LogMemory: Process Physical Memory: 253.96 MB used, 253.96 MB peak
+[2016.11.29-06.41.11:547][  0]LogMemory: Process Virtual Memory: 259.63 MB used, 259.63 MB peak
+[2016.11.29-06.41.11:547][  0]LogMemory: Physical Memory: 3785.25 MB used, 8100.01 MB total
+[2016.11.29-06.41.11:547][  0]LogMemory: Virtual Memory: 603.55 MB used, 134217728.00 MB total
+[2016.11.29-06.41.11:605][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2016.11.29-06.41.12:819][  0]LogD3D11RHI: D3D11 adapters:
+[2016.11.29-06.41.12:826][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics Family' (Feature Level 11_0)
+[2016.11.29-06.41.12:827][  0]LogD3D11RHI:       128/0/1792 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2016.11.29-06.41.12:828][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.11.29-06.41.12:828][  0]LogD3D11RHI:       0/0/256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.11.29-06.41.12:828][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.11.29-06.41.12:834][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.11.29-06.41.12:834][  0]LogD3D11RHI:     GPU DeviceId: 0xa16 (for the marketing name, search the web for "GPU Device Id")
+[2016.11.29-06.41.12:834][  0]LogWindows: EnumDisplayDevices:
+[2016.11.29-06.41.12:834][  0]LogWindows:    0. 'Intel(R) HD Graphics Family' (P:1 D:1)
+[2016.11.29-06.41.12:834][  0]LogWindows:    1. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2016.11.29-06.41.12:834][  0]LogWindows:    2. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2016.11.29-06.41.12:834][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2016.11.29-06.41.12:834][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics Family
+[2016.11.29-06.41.12:834][  0]LogD3D11RHI:   Driver Version: 10.18.14.4414 (internal:10.18.14.4414, unified:10.18.14.4414)
+[2016.11.29-06.41.12:834][  0]LogD3D11RHI:      Driver Date: 3-23-2016
+[2016.11.29-06.41.12:834][  0]LogRHI: Texture pool is 716 MB (70% of 1024 MB)
+[2016.11.29-06.41.12:841][  0]LogD3D11RHI: Async texture creation enabled
+[2016.11.29-06.41.12:852][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2016.11.29-06.41.12:853][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Intermediate/Shaders/WorkingDirectory/15516/).
+[2016.11.29-06.41.12:853][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Adam/AppData/Local/Temp/UnrealShaderWorkingDir/99C0EEA949DD1450BB6927B356F193CF/'.
+[2016.11.29-06.41.12:853][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.11.29-06.41.15:150][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.11.29-06.41.15:171][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.11.29-06.41.15:189][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.11.29-06.41.15:205][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.11.29-06.41.15:219][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.11.29-06.41.15:235][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.11.29-06.41.15:253][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.11.29-06.41.15:268][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.11.29-06.41.15:287][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.11.29-06.41.15:302][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.11.29-06.41.15:314][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.11.29-06.41.15:346][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.11.29-06.41.15:346][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.11.29-06.41.15:350][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.11.29-06.41.15:381][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.11.29-06.41.15:395][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.11.29-06.41.15:409][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.11.29-06.41.15:422][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.11.29-06.41.15:436][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.11.29-06.41.15:449][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.11.29-06.41.15:449][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.11.29-06.41.15:607][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.11.29-06.41.16:411][  0]LogDerivedDataCache: Loaded boot cache 0.80s 62MB C:/Users/Adam/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.11.29-06.41.16:411][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Adam/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2016.11.29-06.41.16:411][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.11.29-06.41.16:411][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.11.29-06.41.16:411][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.11.29-06.41.16:411][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.11.29-06.41.16:459][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.11.29-06.41.16:472][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Adam/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.11.29-06.41.19:973][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.29-06.41.19:981][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.11.29-06.41.20:148][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.11.29-06.41.20:148][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.11.29-06.41.20:148][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.11.29-06.41.20:730][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.11.29-06.41.22:232][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: greg, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 3459958176
+[2016.11.29-06.41.22:325][  0]LogAssetRegistry: FAssetRegistry took 0.0221 seconds to start up
+[2016.11.29-06.41.22:397][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.068995 seconds
+[2016.11.29-06.41.22:405][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
+[2016.11.29-06.41.22:405][  0]LogUObjectAllocator: 6125448 out of 0 bytes used by permanent object pool.
+[2016.11.29-06.41.22:405][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.11.29-06.41.22:427][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.11.29-06.41.26:144][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.29-06.41.26:144][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.29-06.41.49:314][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2016.11.29-06.41.49:343][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.11.29-06.41.50:094][  0]SourceControl: Info Source control is disabled
+[2016.11.29-06.41.50:569][  0]SourceControl: Info Source control is disabled
+[2016.11.29-06.41.50:595][  0]SourceControl: Info Source control is disabled
+[2016.11.29-06.41.50:608][  0]SourceControl: Info Source control is disabled
+[2016.11.29-06.41.51:682][  0]LogEngine: Initializing Engine...
+[2016.11.29-06.41.51:683][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2016.11.29-06.41.52:161][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.11.29-06.41.52:190][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.29-06.41.52:348][  0]LogInit: FAudioDevice initialized.
+[2016.11.29-06.41.52:401][  0]LogDerivedDataCache: Saved boot cache 0.05s 62MB C:/Users/Adam/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.11.29-06.41.52:416][  0]LogInit: Texture streaming: Enabled
+[2016.11.29-06.41.52:462][  0]LogInit: Transaction tracking system initialized
+[2016.11.29-06.41.52:547][  0]BlueprintLog: New page: Editor Load
+[2016.11.29-06.41.52:812][  0]LocalizationService: Info Localization service is disabled
+[2016.11.29-06.41.53:437][  0]LogConsoleResponse:Display: 
+[2016.11.29-06.41.55:695][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.11.29-06.41.55:695][  0]LogCook:Display: Mobile HDR setting 1
+[2016.11.29-06.41.56:134][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Adam/Documents/Unreal Projects/Greg/Content/' took 0.02s
+[2016.11.29-06.41.57:342][  0]SourceControl: Info Source control is disabled
+[2016.11.29-06.41.57:342][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.29-06.41.57:360][  0]LightingResults: New page: Lighting Build
+[2016.11.29-06.41.57:368][  0]MapCheck: New page: Map Check
+[2016.11.29-06.41.57:368][  0]LightingResults: New page: Lighting Build
+[2016.11.29-06.42.03:187][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2016.11.29-06.42.03:340][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.11.29-06.42.03:347][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.11.29-06.42.03:440][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 92.769ms to complete.
+[2016.11.29-06.42.03:440][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 6.098
+[2016.11.29-06.42.03:702][  0]LogCollectionManager: Loaded 0 collections in 0.002262 seconds
+[2016.11.29-06.42.03:752][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Adam/Documents/Unreal Projects/Greg/Saved/Collections/' took 0.01s
+[2016.11.29-06.42.03:752][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Adam/Documents/Unreal Projects/Greg/Content/Developers/Adam/Collections/' took 0.01s
+[2016.11.29-06.42.03:752][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Adam/Documents/Unreal Projects/Greg/Content/Collections/' took 0.01s
+[2016.11.29-06.42.03:752][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000004 seconds
+[2016.11.29-06.42.03:770][  0]LogContentBrowser: Native class hierarchy populated in 0.0177 seconds. Added 2142 classes and 417 folders.
+[2016.11.29-06.42.03:777][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.11.29-06.42.03:777][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.11.29-06.42.03:778][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0009 seconds. Added 12 classes and 0 folders.
+[2016.11.29-06.42.03:783][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2016.11.29-06.42.05:079][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2016.11.29-06.42.05:244][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.11.29-06.42.05:252][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.11.29-06.42.05:287][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2016.11.29-06.42.05:287][  0]LogLoad: (Engine Initialization) Total time: 55.56 seconds
+[2016.11.29-06.42.05:287][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.86 seconds
+[2016.11.29-06.42.05:287][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.11.29-06.42.05:287][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.11.29-06.42.05:301][  0]LogOcInput: OculusInput pre-init called
+[2016.11.29-06.42.05:348][  0]LogContentStreaming: Texture pool size now 400 MB
+[2016.11.29-06.42.05:849][  0]LogRenderer: Reallocating scene render targets to support 256x256 (Frame:2).
+[2016.11.29-06.42.06:069][  0]LogRenderer: Reallocating scene render targets to support 928x568 (Frame:2).
+[2016.11.29-06.42.07:174][  4]LogAssetRegistry: Asset discovery search completed in 44.8706 seconds
+[2016.11.29-06.42.07:174][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2016.11.29-06.42.07:174][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2016.11.29-06.42.18:828][958]LogAIModule: Creating AISystem for world MartianBase
+[2016.11.29-06.42.19:033][958]Cmd: MAP LOAD FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.29-06.42.19:034][958]LightingResults: New page: Lighting Build
+[2016.11.29-06.42.19:034][958]LoadErrors: New page: Loading map: MartianBase.umap
+[2016.11.29-06.42.19:038][958]MapCheck: New page: Map Check
+[2016.11.29-06.42.19:038][958]LightingResults: New page: Lighting Build
+[2016.11.29-06.42.19:221][958]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.11.29-06.42.19:262][958]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.11.29-06.42.19:358][958]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 96.872ms to complete.
+[2016.11.29-06.42.19:358][958]LogFileHelpers: Loading map 'MartianBase' took 0.326
+[2016.11.29-06.47.59:680][745]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MartianBase.MartianBase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MartianBase.MartianBase:PersistentLevel.MartianBase' with GeneratedClass '/Game/Maps/MartianBase.MartianBase_C' with ClassGeneratedBy '/Game/Maps/MartianBase.MartianBase:PersistentLevel.MartianBase'
+[2016.11.29-06.47.59:680][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.29-06.47.59:680][745]PIE: New page: PIE session: MartianBase (Nov 28, 2016, 2:47:59 PM)
+[2016.11.29-06.47.59:680][745]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MartianBase
+[2016.11.29-06.47.59:953][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.272339s)
+[2016.11.29-06.47.59:954][745]LogAIModule: Creating AISystem for world MartianBase
+[2016.11.29-06.47.59:954][745]LogPlayLevel: PIE: World Init took: (0.001284s)
+[2016.11.29-06.47.59:954][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MartianBase.MartianBase to /Game/Maps/UEDPIE_0_MartianBase.MartianBase (0.274131s)
+[2016.11.29-06.48.00:028][745]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.29-06.48.00:042][745]LogInit: FAudioDevice initialized.
+[2016.11.29-06.48.00:149][745]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2016.11.29-06.48.00:184][745]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MartianBase.MartianBase up for play (max tick rate 0) at 2016.11.28-22.48.00
+[2016.11.29-06.48.00:187][745]LogWorld: Bringing up level for play took: 0.036546
+[2016.11.29-06.48.00:201][745]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0034 seconds. Added 11 classes and 0 folders.
+[2016.11.29-06.48.00:202][745]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.29-06.48.00:203][745]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.29-06.48.00:203][745]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.29-06.48.00:244][745]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.29-06.48.00:244][745]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MartianBase 0.659
+[2016.11.29-06.48.00:244][745]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MartianBase.MartianBase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MartianBase.MartianBase:PersistentLevel.MartianBase' with GeneratedClass '/Game/Maps/MartianBase.MartianBase_C' with ClassGeneratedBy '/Game/Maps/MartianBase.MartianBase:PersistentLevel.MartianBase'
+[2016.11.29-06.48.07:858][107]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MartianBase.MartianBase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MartianBase.MartianBase:PersistentLevel.MartianBase' with GeneratedClass '/Game/Maps/MartianBase.MartianBase_C' with ClassGeneratedBy '/Game/Maps/MartianBase.MartianBase:PersistentLevel.MartianBase'
+[2016.11.29-06.48.08:065][107]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MartianBase.MartianBase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MartianBase.MartianBase:PersistentLevel.MartianBase' with GeneratedClass '/Game/Maps/MartianBase.MartianBase_C' with ClassGeneratedBy '/Game/Maps/MartianBase.MartianBase:PersistentLevel.MartianBase'
+[2016.11.29-06.48.12:529][246]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MartianBase.MartianBase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MartianBase.MartianBase:PersistentLevel.MartianBase' with GeneratedClass '/Game/Maps/MartianBase.MartianBase_C' with ClassGeneratedBy '/Game/Maps/MartianBase.MartianBase:PersistentLevel.MartianBase'
+[2016.11.29-06.48.12:529][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.29-06.48.12:529][246]PIE: New page: PIE session: MartianBase (Nov 28, 2016, 2:48:12 PM)
+[2016.11.29-06.48.12:529][246]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MartianBase
+[2016.11.29-06.48.12:787][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.256840s)
+[2016.11.29-06.48.12:788][246]LogAIModule: Creating AISystem for world MartianBase
+[2016.11.29-06.48.12:788][246]LogPlayLevel: PIE: World Init took: (0.001305s)
+[2016.11.29-06.48.12:788][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MartianBase.MartianBase to /Game/Maps/UEDPIE_0_MartianBase.MartianBase (0.258648s)
+[2016.11.29-06.48.12:831][246]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.29-06.48.12:849][246]LogInit: FAudioDevice initialized.
+[2016.11.29-06.48.12:886][246]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2016.11.29-06.48.12:923][246]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MartianBase.MartianBase up for play (max tick rate 0) at 2016.11.28-22.48.12
+[2016.11.29-06.48.12:924][246]LogWorld: Bringing up level for play took: 0.037867
+[2016.11.29-06.48.12:925][246]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.29-06.48.12:926][246]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.29-06.48.12:926][246]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.29-06.48.12:929][246]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.29-06.48.12:930][246]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MartianBase 1.345
+[2016.11.29-06.48.12:930][246]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MartianBase.MartianBase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MartianBase.MartianBase:PersistentLevel.MartianBase' with GeneratedClass '/Game/Maps/MartianBase.MartianBase_C' with ClassGeneratedBy '/Game/Maps/MartianBase.MartianBase:PersistentLevel.MartianBase'
+[2016.11.29-06.48.16:578][422]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=4830.192 Y=-1306.053 Z=92.556] for [FirstPersonProjectile_C]
+[2016.11.29-06.48.18:778][534]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MartianBase.MartianBase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MartianBase.MartianBase:PersistentLevel.MartianBase' with GeneratedClass '/Game/Maps/MartianBase.MartianBase_C' with ClassGeneratedBy '/Game/Maps/MartianBase.MartianBase:PersistentLevel.MartianBase'
+[2016.11.29-06.48.18:849][534]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MartianBase.MartianBase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MartianBase.MartianBase:PersistentLevel.MartianBase' with GeneratedClass '/Game/Maps/MartianBase.MartianBase_C' with ClassGeneratedBy '/Game/Maps/MartianBase.MartianBase:PersistentLevel.MartianBase'
+[2016.11.29-06.48.23:333][691]Cmd: DELETE
+[2016.11.29-06.48.23:333][691]Cmd: ACTOR DELETE
+[2016.11.29-06.48.23:428][691]LogEditorActor: Deleted Actor: BP_openDoor_C
+[2016.11.29-06.48.23:464][691]LogEditorActor: Deleted 1 Actors (0.131 secs)
+[2016.11.29-06.48.48:506][230]Cmd: DELETE
+[2016.11.29-06.48.48:506][230]Cmd: ACTOR DELETE
+[2016.11.29-06.48.48:524][230]LogEditorActor: Deleted Actor: BP_key_C
+[2016.11.29-06.48.48:561][230]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2016.11.29-06.49.22:237][  8]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MartianBase.MartianBase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MartianBase.MartianBase:PersistentLevel.MartianBase' with GeneratedClass '/Game/Maps/MartianBase.MartianBase_C' with ClassGeneratedBy '/Game/Maps/MartianBase.MartianBase:PersistentLevel.MartianBase'
+[2016.11.29-06.49.22:238][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.29-06.49.22:238][  8]PIE: New page: PIE session: MartianBase (Nov 28, 2016, 2:49:22 PM)
+[2016.11.29-06.49.22:238][  8]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MartianBase
+[2016.11.29-06.49.22:505][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.267073s)
+[2016.11.29-06.49.22:506][  8]LogAIModule: Creating AISystem for world MartianBase
+[2016.11.29-06.49.22:506][  8]LogPlayLevel: PIE: World Init took: (0.001129s)
+[2016.11.29-06.49.22:506][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MartianBase.MartianBase to /Game/Maps/UEDPIE_0_MartianBase.MartianBase (0.268705s)
+[2016.11.29-06.49.22:551][  8]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.29-06.49.22:571][  8]LogInit: FAudioDevice initialized.
+[2016.11.29-06.49.22:614][  8]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2016.11.29-06.49.22:648][  8]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MartianBase.MartianBase up for play (max tick rate 0) at 2016.11.28-22.49.22
+[2016.11.29-06.49.22:649][  8]LogWorld: Bringing up level for play took: 0.034872
+[2016.11.29-06.49.22:650][  8]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.29-06.49.22:650][  8]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.29-06.49.22:651][  8]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.29-06.49.22:656][  8]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.29-06.49.22:656][  8]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MartianBase 1.071
+[2016.11.29-06.49.22:656][  8]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MartianBase.MartianBase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MartianBase.MartianBase:PersistentLevel.MartianBase' with GeneratedClass '/Game/Maps/MartianBase.MartianBase_C' with ClassGeneratedBy '/Game/Maps/MartianBase.MartianBase:PersistentLevel.MartianBase'
+[2016.11.29-06.50.16:031][806]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MartianBase.MartianBase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MartianBase.MartianBase:PersistentLevel.MartianBase' with GeneratedClass '/Game/Maps/MartianBase.MartianBase_C' with ClassGeneratedBy '/Game/Maps/MartianBase.MartianBase:PersistentLevel.MartianBase'
+[2016.11.29-06.50.16:111][806]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MartianBase.MartianBase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MartianBase.MartianBase:PersistentLevel.MartianBase' with GeneratedClass '/Game/Maps/MartianBase.MartianBase_C' with ClassGeneratedBy '/Game/Maps/MartianBase.MartianBase:PersistentLevel.MartianBase'
+[2016.11.29-06.50.23:299][164]LogEditorViewport: Clicking on Actor (LMB): BP_openDoor_C (BP_openDoor)
+[2016.11.29-06.50.39:940][ 22]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MartianBase.MartianBase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MartianBase.MartianBase:PersistentLevel.MartianBase' with GeneratedClass '/Game/Maps/MartianBase.MartianBase_C' with ClassGeneratedBy '/Game/Maps/MartianBase.MartianBase:PersistentLevel.MartianBase'
+[2016.11.29-06.50.39:940][ 22]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.29-06.50.39:941][ 22]PIE: New page: PIE session: MartianBase (Nov 28, 2016, 2:50:39 PM)
+[2016.11.29-06.50.39:941][ 22]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MartianBase
+[2016.11.29-06.50.40:206][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.264750s)
+[2016.11.29-06.50.40:207][ 22]LogAIModule: Creating AISystem for world MartianBase
+[2016.11.29-06.50.40:207][ 22]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2016.11.29-06.50.40:207][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MartianBase.MartianBase to /Game/Maps/UEDPIE_0_MartianBase.MartianBase (0.266187s)
+[2016.11.29-06.50.40:250][ 22]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.29-06.50.40:264][ 22]LogInit: FAudioDevice initialized.
+[2016.11.29-06.50.40:305][ 22]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2016.11.29-06.50.40:341][ 22]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MartianBase.MartianBase up for play (max tick rate 0) at 2016.11.28-22.50.40
+[2016.11.29-06.50.40:341][ 22]LogWorld: Bringing up level for play took: 0.035684
+[2016.11.29-06.50.40:346][ 22]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.29-06.50.40:346][ 22]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.29-06.50.40:346][ 22]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.29-06.50.40:351][ 22]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.29-06.50.40:351][ 22]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MartianBase 0.766
+[2016.11.29-06.50.40:351][ 22]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MartianBase.MartianBase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MartianBase.MartianBase:PersistentLevel.MartianBase' with GeneratedClass '/Game/Maps/MartianBase.MartianBase_C' with ClassGeneratedBy '/Game/Maps/MartianBase.MartianBase:PersistentLevel.MartianBase'
+[2016.11.29-06.51.01:099][ 73]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MartianBase.MartianBase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MartianBase.MartianBase:PersistentLevel.MartianBase' with GeneratedClass '/Game/Maps/MartianBase.MartianBase_C' with ClassGeneratedBy '/Game/Maps/MartianBase.MartianBase:PersistentLevel.MartianBase'
+[2016.11.29-06.51.01:182][ 73]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MartianBase.MartianBase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MartianBase.MartianBase:PersistentLevel.MartianBase' with GeneratedClass '/Game/Maps/MartianBase.MartianBase_C' with ClassGeneratedBy '/Game/Maps/MartianBase.MartianBase:PersistentLevel.MartianBase'
+[2016.11.29-06.51.15:149][253]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 112 classes and 0 folders.
+[2016.11.29-06.53.48:678][314]LogSavePackage: Save=1731.01ms
+[2016.11.29-06.53.48:678][314]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBase_Auto1F31B8138425D56244AD1E2BB9FC82149.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/Autosaves/Game/Maps/MartianBase_Auto1.umap'
+[2016.11.29-06.53.48:680][314]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/Autosaves/Game/Maps/MartianBase_Auto1.umap
+[2016.11.29-06.53.48:682][314]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MartianBase' took 1.921
+[2016.11.29-06.53.48:682][314]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.921
+[2016.11.29-07.48.49:268][967]LogAIModule: Creating AISystem for world Office
+[2016.11.29-07.48.51:349][967]Cmd: MAP LOAD FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/Office.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.29-07.48.51:351][967]LightingResults: New page: Lighting Build
+[2016.11.29-07.48.51:356][967]LoadErrors: New page: Loading map: Office.umap
+[2016.11.29-07.48.51:373][967]MapCheck: New page: Map Check
+[2016.11.29-07.48.51:373][967]LightingResults: New page: Lighting Build
+[2016.11.29-07.48.51:489][967]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.11.29-07.48.51:570][967]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.11.29-07.48.51:690][967]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 119.146ms to complete.
+[2016.11.29-07.48.51:690][967]LogFileHelpers: Loading map 'Office' took 0.341
+[2016.11.29-07.49.03:426][259]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2016.11.29-08.17.55:350][170]LogAIModule: Creating AISystem for world MartianBase
+[2016.11.29-08.17.55:540][170]Cmd: MAP LOAD FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.29-08.17.55:540][170]LightingResults: New page: Lighting Build
+[2016.11.29-08.17.55:541][170]LoadErrors: New page: Loading map: MartianBase.umap
+[2016.11.29-08.17.55:710][170]MapCheck: New page: Map Check
+[2016.11.29-08.17.55:710][170]LightingResults: New page: Lighting Build
+[2016.11.29-08.17.55:832][170]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.11.29-08.17.55:928][170]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.11.29-08.17.56:060][170]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 132.253ms to complete.
+[2016.11.29-08.17.56:061][170]LogFileHelpers: Loading map 'MartianBase' took 0.522
+[2016.11.29-08.18.20:288][711]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2016.11.29-08.18.39:463][623]Cmd: TRANSACTION UNDO
+[2016.11.29-08.18.39:463][623]LogEditorTransaction: Undo Scale Actors
+[2016.11.29-08.18.39:620][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush111.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:622][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush70_43.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:623][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush91.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:623][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush92.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:624][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush87.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:627][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush154.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:630][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush121.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:631][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.CylinderBrush7.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:631][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.CylinderBrush8.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:633][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush129.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:634][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush17.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:636][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush21.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:636][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush22.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:786][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush8.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:786][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush9.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:788][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:791][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush59.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:795][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush63.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:795][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush64.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:797][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.CylinderBrush6.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:799][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush49.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:800][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush36_1.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:804][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush270.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:805][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush263.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:805][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush271.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:806][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush236.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:808][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush242.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:808][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.CylinderBrush24.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:813][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush310.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:814][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush304.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:814][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush280.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:817][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush284.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:817][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush285.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:819][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush185.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:819][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush186.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:821][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush125.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:831][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush158.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:831][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush159.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:834][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush172.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:834][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush222.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:835][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush223.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:835][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush208.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:838][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush199_25.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:838][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush200.BrushComponent0) Component already registered.
+[2016.11.29-08.18.39:840][623]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.CylinderBrush18.BrushComponent0) Component already registered.
+[2016.11.29-08.18.45:898][982]Cmd: TRANSACTION UNDO
+[2016.11.29-08.18.45:898][982]LogEditorTransaction: Undo Scale Actors
+[2016.11.29-08.18.46:056][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush111.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:063][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush70_43.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:065][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush91.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:065][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush92.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:069][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush87.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:074][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush154.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:076][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush121.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:077][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.CylinderBrush7.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:077][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.CylinderBrush8.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:078][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush129.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:079][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush17.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:081][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush21.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:081][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush22.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:213][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush8.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:214][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush9.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:216][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:218][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush59.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:221][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush63.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:221][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush64.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:227][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.CylinderBrush6.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:232][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush49.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:235][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush36_1.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:238][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush270.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:239][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush263.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:239][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush271.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:241][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush236.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:243][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush242.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:243][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.CylinderBrush24.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:255][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush310.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:256][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush304.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:256][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush280.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:258][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush284.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:258][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush285.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:260][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush185.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:261][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush186.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:262][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush125.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:265][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush158.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:265][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush159.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:267][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush172.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:268][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush222.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:268][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush223.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:269][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush208.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:275][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush199_25.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:275][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.BoxBrush200.BrushComponent0) Component already registered.
+[2016.11.29-08.18.46:277][982]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MartianBase.MartianBase:PersistentLevel.CylinderBrush18.BrushComponent0) Component already registered.
+[2016.11.29-08.19.42:359][922]LogMaterial: Missing cached shader map for material M_Basic_Wall2, compiling. 
+[2016.11.29-08.19.55:800][464]LogMaterial: Missing cached shader map for material M_Basic_Wall2, compiling. 
+[2016.11.29-08.19.55:996][464]LogMaterial: Missing cached shader map for material M_Basic_Wall2, compiling. 
+[2016.11.29-08.19.56:039][464]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.29-08.19.56:090][464]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2016.11.29-08.20.00:196][601]LogMaterial: Missing cached shader map for material M_Basic_Wall2, compiling. 
+[2016.11.29-08.20.00:222][601]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.29-08.20.00:224][601]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.11.29-08.20.16:065][160]LogMaterial: Missing cached shader map for material M_Basic_Wall2, compiling. 
+[2016.11.29-08.20.16:113][160]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.29-08.20.16:162][160]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.11.29-08.20.17:664][209]LogMaterial: Missing cached shader map for material M_Basic_Wall2, compiling. 
+[2016.11.29-08.20.17:688][209]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.29-08.20.17:731][209]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.11.29-08.20.20:294][293]LogMaterial: Missing cached shader map for material M_Basic_Wall2, compiling. 
+[2016.11.29-08.20.20:348][293]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.29-08.20.20:389][293]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.11.29-08.20.23:996][420]LogMaterial: Missing cached shader map for material M_Basic_Wall2, compiling. 
+[2016.11.29-08.20.24:021][420]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.29-08.20.24:067][420]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.11.29-08.20.29:723][623]LogMaterial: Missing cached shader map for material M_Basic_Wall2, compiling. 
+[2016.11.29-08.20.29:756][623]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.29-08.20.29:821][623]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.11.29-08.21.36:277][101]LogMaterial: Missing cached shader map for material M_Basic_Wall2, compiling. 
+[2016.11.29-08.21.36:301][101]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.29-08.21.40:661][255]LogMaterial: Missing cached shader map for material M_Basic_Wall2, compiling. 
+[2016.11.29-08.21.40:686][255]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.29-08.21.44:717][394]LogMaterial: Missing cached shader map for material M_Basic_Wall2, compiling. 
+[2016.11.29-08.21.44:752][394]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.29-08.21.44:795][394]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.11.29-08.21.49:373][558]LogMaterial: Missing cached shader map for material M_Basic_Wall2, compiling. 
+[2016.11.29-08.21.49:402][558]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.29-08.21.51:500][636]LogMaterial: Missing cached shader map for material M_Basic_Wall2, compiling. 
+[2016.11.29-08.21.51:527][636]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.29-08.21.55:481][776]LogMaterial: Missing cached shader map for material M_Basic_Wall2, compiling. 
+[2016.11.29-08.21.55:507][776]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.29-08.21.59:848][929]LogMaterial: Missing cached shader map for material M_Basic_Wall2, compiling. 
+[2016.11.29-08.21.59:875][929]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.29-08.25.11:063][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.11:750][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.11:784][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.11:818][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.11:852][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.12:134][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.12:168][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.12:202][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.12:269][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.12:303][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.12:344][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.12:378][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.12:412][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.12:446][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.12:679][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.12:714][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.12:748][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.12:798][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.12:932][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.12:966][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.13:000][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.13:034][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.13:068][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.13:102][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.13:136][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.13:170][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.13:204][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.13:759][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.13:794][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.14:026][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.14:110][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.14:243][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.14:277][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.14:344][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.15:918][261]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2016.11.29-08.25.28:611][912]LogMaterial: Missing cached shader map for material M_Basic_Wall2, compiling. 
+[2016.11.29-08.25.28:660][912]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.29-08.25.28:697][912]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.11.29-08.25.35:668][274]LogMaterial: Missing cached shader map for material M_Basic_Wall2, compiling. 
+[2016.11.29-08.25.35:695][274]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.29-08.25.35:747][274]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.11.29-08.25.44:846][762]LogMaterial: Missing cached shader map for material M_Basic_Wall2, compiling. 
+[2016.11.29-08.25.44:874][762]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.29-08.25.44:923][762]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2016.11.29-08.25.45:242][779]LogMaterial: Missing cached shader map for material M_Basic_Wall2, compiling. 
+[2016.11.29-08.25.45:268][779]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.29-08.25.45:308][779]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2016.11.29-08.25.46:208][825]LogMaterial: Missing cached shader map for material M_Basic_Wall2, compiling. 
+[2016.11.29-08.25.46:236][825]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.29-08.25.46:277][825]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2016.11.29-08.25.53:032][171]LogMaterialEditor: Applying material M_Basic_Wall2
+[2016.11.29-08.25.54:020][171]LogMaterial: Missing cached shader map for material M_Basic_Wall2, compiling. 
+[2016.11.29-08.25.54:064][171]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.29-08.25.54:113][171]LogMaterial: Missing cached shader map for material M_Basic_Wall2, compiling. 
+[2016.11.29-08.25.54:188][171]LogMaterial: Missing cached shader map for material M_Basic_Wall2, compiling. 
+[2016.11.29-08.25.54:255][171]LogMaterial: 0.03 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.29-08.30.35:912][ 18]LogMaterial: Missing cached shader map for material M_Basic_Wall2, compiling. 
+[2016.11.29-08.30.35:937][ 18]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.29-08.38.30:692][257]LogMaterialEditor: Applying material M_Basic_Wall2
+[2016.11.29-08.38.31:620][257]LogMaterial: Missing cached shader map for material M_Basic_Wall2, compiling. 
+[2016.11.29-08.38.31:665][257]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.29-08.38.31:714][257]LogMaterial: Missing cached shader map for material M_Basic_Wall2, compiling. 
+[2016.11.29-08.38.31:802][257]LogMaterial: Missing cached shader map for material M_Basic_Wall2, compiling. 
+[2016.11.29-08.38.31:875][257]LogMaterial: 0.04 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.29-08.38.33:437][339]LogMaterialEditor: Saving and Compiling material M_Basic_Wall2
+[2016.11.29-08.59.10:779][339]LogSavePackage: Save=98.52ms
+[2016.11.29-08.59.10:779][339]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/M_Basic_Wall26A3BAEC04F5B0BE27EAF39871603FBAC.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/StarterContent/Materials/M_Basic_Wall2.uasset'
+[2016.11.29-08.59.10:799][339]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/StarterContent/Materials/M_Basic_Wall2.uasset
+[2016.11.29-08.59.15:235][340]LogSavePackage: Save=4080.42ms
+[2016.11.29-08.59.15:235][340]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBase_Auto2AFE2784F4CC6AEE69560C0815B79A86B.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/Autosaves/Game/Maps/MartianBase_Auto2.umap'
+[2016.11.29-08.59.15:251][340]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/Autosaves/Game/Maps/MartianBase_Auto2.umap
+[2016.11.29-08.59.15:259][340]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MartianBase' took 4.310
+[2016.11.29-08.59.15:259][340]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 4.310
+[2016.11.29-08.59.30:483][265]LogMaterial: Missing cached shader map for material M_Basic_Wall2, compiling. 
+[2016.11.29-08.59.30:505][265]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.29-08.59.30:539][265]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.11.29-08.59.35:415][530]LogMaterial: Missing cached shader map for material M_Basic_Wall2, compiling. 
+[2016.11.29-08.59.35:441][530]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.29-08.59.35:482][530]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.11.29-09.10.54:128][658]LogMaterialEditor: Applying material M_Basic_Wall2
+[2016.11.29-09.10.54:899][658]LogMaterial: Missing cached shader map for material M_Basic_Wall2, compiling. 
+[2016.11.29-09.10.54:943][658]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.29-09.10.55:029][658]LogMaterial: Missing cached shader map for material M_Basic_Wall2, compiling. 
+[2016.11.29-09.10.55:088][658]LogMaterial: Missing cached shader map for material M_Basic_Wall2, compiling. 
+[2016.11.29-09.10.55:137][658]LogMaterial: 0.01 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.29-09.10.59:089][884]LogMaterialEditor: Saving and Compiling material M_Basic_Wall2
+[2016.11.29-09.40.24:774][884]LogSavePackage: Save=13.02ms
+[2016.11.29-09.40.24:774][884]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/M_Basic_Wall289022C5140B6083B016AF4B28329AF6A.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/StarterContent/Materials/M_Basic_Wall2.uasset'
+[2016.11.29-09.40.24:779][884]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/StarterContent/Materials/M_Basic_Wall2.uasset
+[2016.11.29-09.46.15:579][182]LogSavePackage: Save=14.27ms
+[2016.11.29-09.46.15:579][182]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/Fluorescent_GlowDB852E824F5405C6700986A100969AB0.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/StarterContent/Materials/Fluorescent_Glow.uasset'
+[2016.11.29-09.46.15:585][182]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/StarterContent/Materials/Fluorescent_Glow.uasset
+[2016.11.29-09.46.21:466][470]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush27)
+[2016.11.29-09.46.39:614][435]Cmd: POLY SELECT ADJACENT ALL
+[2016.11.29-09.46.43:204][612]Cmd: SELECT NONE
+[2016.11.29-09.48.49:787][751]Cmd: SELECT NONE
+[2016.11.29-09.50.26:731][124]LogSavePackage: Save=1686.25ms
+[2016.11.29-09.50.26:731][124]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBase_Auto34C1367304B7E1E2041F0B2A910405B0D.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/Autosaves/Game/Maps/MartianBase_Auto3.umap'
+[2016.11.29-09.50.26:734][124]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/Autosaves/Game/Maps/MartianBase_Auto3.umap
+[2016.11.29-09.50.26:737][124]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MartianBase' took 1.802
+[2016.11.29-09.50.26:737][124]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.802
+[2016.11.29-09.54.11:898][ 60]LogEditorViewport: Clicking on Actor (LMB): Blueprint_CeilingLight_C (Blueprint_CeilingLight)
+[2016.11.29-09.54.18:626][440]Cmd: DELETE
+[2016.11.29-09.54.18:627][440]Cmd: ACTOR DELETE
+[2016.11.29-09.54.18:645][440]LogEditorActor: Deleted Actor: Blueprint_CeilingLight_C
+[2016.11.29-09.54.18:715][440]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2016.11.29-09.54.36:239][320]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2016.11.29-09.55.03:571][686]Cmd: SELECT NONE
+[2016.11.29-09.55.05:454][752]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2016.11.29-09.58.27:720][839]Cmd: DELETE
+[2016.11.29-09.58.27:721][839]Cmd: ACTOR DELETE
+[2016.11.29-09.58.27:741][839]LogEditorActor: Deleted Actor: DirectionalLight
+[2016.11.29-09.58.27:815][839]LogEditorActor: Deleted 1 Actors (0.094 secs)
+[2016.11.29-09.58.29:184][921]Cmd: TRANSACTION UNDO
+[2016.11.29-09.58.29:184][921]LogEditorTransaction: Undo Delete Actors
+[2016.11.29-09.59.33:314][993]LogSpawn:Warning: UWorld::DestroyActor: World has no context! World: MartianBase2, Actor: /Game/Maps/MartianBase2.MartianBase2:PersistentLevel.MartianBase_C_0
+[2016.11.29-09.59.33:531][993]LogAIModule: Creating AISystem for world MartianBase2
+[2016.11.29-09.59.33:646][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MartianBase2" FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.29-09.59.33:794][993]LogSpawn:Warning: UWorld::DestroyActor: World has no context! World: MartianBase2, Actor: /Game/Maps/MartianBase2.MartianBase2:PersistentLevel.MartianBase2_C_0
+[2016.11.29-09.59.35:556][993]LogSavePackage: Save=1776.48ms
+[2016.11.29-09.59.35:556][993]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBase2FF5A576A486F331FAA36FD9FD79C25B5.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase2.umap'
+[2016.11.29-09.59.35:561][993]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase2.umap
+[2016.11.29-09.59.35:695][993]LogFileHelpers: Saving map 'MartianBase2' took 3.020
+[2016.11.29-09.59.35:697][993]Cmd: MAP LOAD FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.29-09.59.35:720][993]LightingResults: New page: Lighting Build
+[2016.11.29-09.59.35:730][993]LoadErrors: New page: Loading map: MartianBase2.umap
+[2016.11.29-09.59.35:743][993]MapCheck: New page: Map Check
+[2016.11.29-09.59.35:743][993]LightingResults: New page: Lighting Build
+[2016.11.29-09.59.35:888][993]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.11.29-09.59.36:016][993]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.11.29-09.59.36:121][993]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 105.373ms to complete.
+[2016.11.29-09.59.36:121][993]LogFileHelpers: Loading map 'MartianBase2' took 0.426
+[2016.11.29-09.59.49:084][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MartianBase2" FILE="../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.29-09.59.50:798][214]LogSavePackage: Save=1635.39ms
+[2016.11.29-09.59.50:798][214]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Saved/MartianBase2E1528873419C2C7FE2737FA44B33DB25.tmp' to '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase2.umap'
+[2016.11.29-09.59.50:808][214]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/Maps/MartianBase2.umap
+[2016.11.29-09.59.50:847][214]LogFileHelpers: Saving map 'MartianBase2' took 1.874
+[2016.11.29-09.59.51:104][214]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.29-09.59.51:105][214]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.29-09.59.51:490][215]Cmd: QUIT_EDITOR
+[2016.11.29-09.59.52:103][215]LogExit: Preparing to exit.
+[2016.11.29-09.59.52:649][215]LogDirectoryWatcher: A directory notification for 'C:/Users/Adam/Documents/Unreal Projects/Greg/Content/' was aborted.
+[2016.11.29-09.59.52:906][215]LogExit: Editor shut down
+[2016.11.29-09.59.52:907][215]LogExit: Transaction tracking system shut down
+[2016.11.29-09.59.55:762][215]LogObj: Freed 0b from 0 cluster array pools.
+[2016.11.29-09.59.55:762][215]LogExit: Object subsystem successfully closed.
+[2016.11.29-09.59.55:965][215]LogD3D11RHI: Shutdown
+[2016.11.29-09.59.55:965][215]LogD3D11RHI: CleanupD3DDevice
+[2016.11.29-09.59.56:278][215]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.11.29-09.59.57:059][215]LogModuleManager: Shutting down and abandoning module MaterialEditor (237)
+[2016.11.29-09.59.57:059][215]LogModuleManager: Shutting down and abandoning module BlueprintGraph (236)
+[2016.11.29-09.59.57:059][215]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (235)
+[2016.11.29-09.59.57:063][215]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (234)
+[2016.11.29-09.59.57:063][215]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (233)
+[2016.11.29-09.59.57:077][215]LogModuleManager: Shutting down and abandoning module CrashTracker (232)
+[2016.11.29-09.59.57:077][215]LogModuleManager: Shutting down and abandoning module WidgetCarousel (231)
+[2016.11.29-09.59.57:077][215]LogModuleManager: Shutting down and abandoning module AddContentDialog (230)
+[2016.11.29-09.59.57:093][215]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/4.13/FeaturePacks/' was aborted.
+[2016.11.29-09.59.57:095][215]LogModuleManager: Shutting down and abandoning module GameplayTags (229)
+[2016.11.29-09.59.57:096][215]LogModuleManager: Shutting down and abandoning module EditorWidgets (228)
+[2016.11.29-09.59.57:096][215]LogModuleManager: Shutting down and abandoning module CollectionManager (227)
+[2016.11.29-09.59.57:097][215]LogDirectoryWatcher: A directory notification for 'C:/Users/Adam/Documents/Unreal Projects/Greg/Content/Collections/' was aborted.
+[2016.11.29-09.59.57:097][215]LogDirectoryWatcher: A directory notification for 'C:/Users/Adam/Documents/Unreal Projects/Greg/Content/Developers/Adam/Collections/' was aborted.
+[2016.11.29-09.59.57:097][215]LogDirectoryWatcher: A directory notification for 'C:/Users/Adam/Documents/Unreal Projects/Greg/Saved/Collections/' was aborted.
+[2016.11.29-09.59.57:097][215]LogModuleManager: Shutting down and abandoning module SceneOutliner (226)
+[2016.11.29-09.59.57:097][215]LogModuleManager: Shutting down and abandoning module StatsViewer (225)
+[2016.11.29-09.59.57:111][215]LogModuleManager: Shutting down and abandoning module FoliageEdit (224)
+[2016.11.29-09.59.57:111][215]LogModuleManager: Shutting down and abandoning module LandscapeEditor (223)
+[2016.11.29-09.59.57:125][215]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (222)
+[2016.11.29-09.59.57:125][215]LogModuleManager: Shutting down and abandoning module ActorPickerMode (221)
+[2016.11.29-09.59.57:125][215]LogModuleManager: Shutting down and abandoning module GeometryMode (220)
+[2016.11.29-09.59.57:125][215]LogModuleManager: Shutting down and abandoning module TextureAlignMode (219)
+[2016.11.29-09.59.57:125][215]LogModuleManager: Shutting down and abandoning module BspMode (218)
+[2016.11.29-09.59.57:125][215]LogModuleManager: Shutting down and abandoning module HardwareSurvey (217)
+[2016.11.29-09.59.57:143][215]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (216)
+[2016.11.29-09.59.57:143][215]LogModuleManager: Shutting down and abandoning module SequenceRecorder (215)
+[2016.11.29-09.59.57:143][215]LogModuleManager: Shutting down and abandoning module AutomationWorker (214)
+[2016.11.29-09.59.57:164][215]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (213)
+[2016.11.29-09.59.57:164][215]LogModuleManager: Shutting down and abandoning module PlacementMode (212)
+[2016.11.29-09.59.57:175][215]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (211)
+[2016.11.29-09.59.57:195][215]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (210)
+[2016.11.29-09.59.57:195][215]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (209)
+[2016.11.29-09.59.57:195][215]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (208)
+[2016.11.29-09.59.57:195][215]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (207)
+[2016.11.29-09.59.57:195][215]LogModuleManager: Shutting down and abandoning module Media (206)
+[2016.11.29-09.59.57:196][215]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (205)
+[2016.11.29-09.59.57:196][215]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (204)
+[2016.11.29-09.59.57:196][215]LogModuleManager: Shutting down and abandoning module CharacterAI (203)
+[2016.11.29-09.59.57:196][215]LogModuleManager: Shutting down and abandoning module SmartSnapping (202)
+[2016.11.29-09.59.57:196][215]LogModuleManager: Shutting down and abandoning module SessionServices (201)
+[2016.11.29-09.59.57:196][215]LogModuleManager: Shutting down and abandoning module ViewportSnapping (200)
+[2016.11.29-09.59.57:196][215]LogModuleManager: Shutting down and abandoning module ViewportInteraction (199)
+[2016.11.29-09.59.57:196][215]LogModuleManager: Shutting down and abandoning module LogVisualizer (198)
+[2016.11.29-09.59.57:223][215]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (197)
+[2016.11.29-09.59.57:237][215]LogModuleManager: Shutting down and abandoning module IntroTutorials (196)
+[2016.11.29-09.59.57:238][215]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (195)
+[2016.11.29-09.59.57:238][215]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (194)
+[2016.11.29-09.59.57:257][215]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (193)
+[2016.11.29-09.59.57:257][215]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (192)
+[2016.11.29-09.59.58:178][215]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (191)
+[2016.11.29-09.59.58:190][215]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (190)
+[2016.11.29-09.59.58:190][215]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (189)
+[2016.11.29-09.59.58:190][215]LogModuleManager: Shutting down and abandoning module NiagaraEditor (188)
+[2016.11.29-09.59.58:221][215]LogModuleManager: Shutting down and abandoning module MergeActors (187)
+[2016.11.29-09.59.58:230][215]LogModuleManager: Shutting down and abandoning module SizeMap (186)
+[2016.11.29-09.59.58:244][215]LogModuleManager: Shutting down and abandoning module TreeMap (185)
+[2016.11.29-09.59.58:293][215]LogModuleManager: Shutting down and abandoning module ReferenceViewer (184)
+[2016.11.29-09.59.58:293][215]LogModuleManager: Shutting down and abandoning module LocalizationService (183)
+[2016.11.29-09.59.58:294][215]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (182)
+[2016.11.29-09.59.58:313][215]LogModuleManager: Shutting down and abandoning module HardwareTargeting (181)
+[2016.11.29-09.59.58:326][215]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (180)
+[2016.11.29-09.59.58:328][215]LogModuleManager: Shutting down and abandoning module UndoHistory (179)
+[2016.11.29-09.59.58:329][215]LogModuleManager: Shutting down and abandoning module UserFeedback (178)
+[2016.11.29-09.59.58:329][215]LogModuleManager: Shutting down and abandoning module XmlParser (177)
+[2016.11.29-09.59.58:330][215]LogModuleManager: Shutting down and abandoning module Blutility (176)
+[2016.11.29-09.59.58:347][215]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (175)
+[2016.11.29-09.59.58:348][215]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (174)
+[2016.11.29-09.59.58:348][215]LogModuleManager: Shutting down and abandoning module InputBindingEditor (173)
+[2016.11.29-09.59.58:466][215]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (172)
+[2016.11.29-09.59.58:466][215]LogModuleManager: Shutting down and abandoning module SettingsEditor (171)
+[2016.11.29-09.59.58:485][215]LogModuleManager: Shutting down and abandoning module ProjectLauncher (170)
+[2016.11.29-09.59.58:543][215]LogModuleManager: Shutting down and abandoning module SessionFrontend (169)
+[2016.11.29-09.59.58:562][215]LogModuleManager: Shutting down and abandoning module ProfilerClient (168)
+[2016.11.29-09.59.58:632][215]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (167)
+[2016.11.29-09.59.58:632][215]LogModuleManager: Shutting down and abandoning module DeviceManager (166)
+[2016.11.29-09.59.58:718][215]LogModuleManager: Shutting down and abandoning module AutomationController (165)
+[2016.11.29-09.59.58:728][215]LogModuleManager: Shutting down and abandoning module AutomationWindow (164)
+[2016.11.29-09.59.58:748][215]LogModuleManager: Shutting down and abandoning module Layers (163)
+[2016.11.29-09.59.58:762][215]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (162)
+[2016.11.29-09.59.58:762][215]LogModuleManager: Shutting down and abandoning module DetailCustomizations (161)
+[2016.11.29-09.59.58:763][215]LogModuleManager: Shutting down and abandoning module PackagesDialog (160)
+[2016.11.29-09.59.58:763][215]LogModuleManager: Shutting down and abandoning module AnimGraph (159)
+[2016.11.29-09.59.58:763][215]LogModuleManager: Shutting down and abandoning module Persona (158)
+[2016.11.29-09.59.58:794][215]LogModuleManager: Shutting down and abandoning module Kismet (157)
+[2016.11.29-09.59.58:814][215]LogModuleManager: Shutting down and abandoning module GraphEditor (156)
+[2016.11.29-09.59.58:814][215]LogModuleManager: Shutting down and abandoning module ClassViewer (155)
+[2016.11.29-09.59.58:828][215]LogModuleManager: Shutting down and abandoning module Toolbox (154)
+[2016.11.29-09.59.58:829][215]LogModuleManager: Shutting down and abandoning module ModuleUI (153)
+[2016.11.29-09.59.58:840][215]LogModuleManager: Shutting down and abandoning module MovieSceneTools (152)
+[2016.11.29-09.59.58:867][215]LogModuleManager: Shutting down and abandoning module OutputLog (151)
+[2016.11.29-09.59.58:875][215]LogModuleManager: Shutting down and abandoning module GammaUI (150)
+[2016.11.29-09.59.58:883][215]LogModuleManager: Shutting down and abandoning module Documentation (149)
+[2016.11.29-09.59.58:883][215]LogModuleManager: Shutting down and abandoning module Niagara (148)
+[2016.11.29-09.59.58:894][215]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (147)
+[2016.11.29-09.59.58:894][215]LogModuleManager: Shutting down and abandoning module AnalyticsET (146)
+[2016.11.29-09.59.58:894][215]LogModuleManager: Shutting down and abandoning module PortalServices (145)
+[2016.11.29-09.59.58:894][215]LogModuleManager: Shutting down and abandoning module PortalRpc (144)
+[2016.11.29-09.59.58:894][215]LogModuleManager: Shutting down and abandoning module MessagingRpc (143)
+[2016.11.29-09.59.58:894][215]LogModuleManager: Shutting down and abandoning module GameplayDebugger (142)
+[2016.11.29-09.59.58:909][215]LogModuleManager: Shutting down and abandoning module AITestSuite (141)
+[2016.11.29-09.59.58:914][215]LogModuleManager: Shutting down and abandoning module AIModule (140)
+[2016.11.29-09.59.58:924][215]LogModuleManager: Shutting down and abandoning module ProfilerService (139)
+[2016.11.29-09.59.58:949][215]LogModuleManager: Shutting down and abandoning module TaskGraph (138)
+[2016.11.29-09.59.58:952][215]LogModuleManager: Shutting down and abandoning module SlateRemote (137)
+[2016.11.29-09.59.58:952][215]LogModuleManager: Shutting down and abandoning module SteamVRController (136)
+[2016.11.29-09.59.58:952][215]LogModuleManager: Shutting down and abandoning module SteamVR (135)
+[2016.11.29-09.59.58:952][215]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (134)
+[2016.11.29-09.59.58:952][215]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (133)
+[2016.11.29-09.59.58:952][215]LogModuleManager: Shutting down and abandoning module OculusLibrary (132)
+[2016.11.29-09.59.58:974][215]LogModuleManager: Shutting down and abandoning module OculusInput (131)
+[2016.11.29-09.59.58:974][215]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (130)
+[2016.11.29-09.59.58:974][215]LogModuleManager: Shutting down and abandoning module CableComponent (129)
+[2016.11.29-09.59.58:974][215]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (128)
+[2016.11.29-09.59.58:974][215]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (126)
+[2016.11.29-09.59.59:011][215]LogModuleManager: Shutting down and abandoning module HTML5Networking (125)
+[2016.11.29-09.59.59:011][215]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (124)
+[2016.11.29-09.59.59:011][215]LogModuleManager: Shutting down and abandoning module GeometryCache (123)
+[2016.11.29-09.59.59:011][215]LogModuleManager: Shutting down and abandoning module AlembicLibrary (122)
+[2016.11.29-09.59.59:011][215]LogModuleManager: Shutting down and abandoning module AlembicImporter (121)
+[2016.11.29-09.59.59:024][215]LogModuleManager: Shutting down and abandoning module SuperSearch (120)
+[2016.11.29-09.59.59:024][215]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (119)
+[2016.11.29-09.59.59:024][215]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (118)
+[2016.11.29-09.59.59:024][215]LogModuleManager: Shutting down and abandoning module PluginBrowser (117)
+[2016.11.29-09.59.59:047][215]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (116)
+[2016.11.29-09.59.59:072][215]LogModuleManager: Shutting down and abandoning module EpicSurvey (115)
+[2016.11.29-09.59.59:107][215]LogModuleManager: Shutting down and abandoning module DesktopPlatform (114)
+[2016.11.29-09.59.59:123][215]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (113)
+[2016.11.29-09.59.59:162][215]LogModuleManager: Shutting down and abandoning module UObjectPlugin (112)
+[2016.11.29-09.59.59:162][215]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (111)
+[2016.11.29-09.59.59:164][215]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (110)
+[2016.11.29-09.59.59:189][215]LogModuleManager: Shutting down and abandoning module SourceControl (109)
+[2016.11.29-09.59.59:194][215]LogModuleManager: Shutting down and abandoning module GitSourceControl (108)
+[2016.11.29-09.59.59:201][215]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (107)
+[2016.11.29-09.59.59:201][215]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (106)
+[2016.11.29-09.59.59:205][215]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (105)
+[2016.11.29-09.59.59:205][215]LogModuleManager: Shutting down and abandoning module MeshPaint (104)
+[2016.11.29-09.59.59:205][215]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (103)
+[2016.11.29-09.59.59:213][215]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (102)
+[2016.11.29-09.59.59:214][215]LogModuleManager: Shutting down and abandoning module HotReload (101)
+[2016.11.29-09.59.59:225][215]LogModuleManager: Shutting down and abandoning module MainFrame (100)
+[2016.11.29-09.59.59:225][215]LogModuleManager: Shutting down and abandoning module LevelEditor (99)
+[2016.11.29-09.59.59:226][215]LogModuleManager: Shutting down and abandoning module ContentBrowser (98)
+[2016.11.29-09.59.59:228][215]LogModuleManager: Shutting down and abandoning module Paper2DEditor (97)
+[2016.11.29-09.59.59:253][215]LogModuleManager: Shutting down and abandoning module UdpMessaging (96)
+[2016.11.29-09.59.59:354][215]LogModuleManager: Shutting down and abandoning module TcpMessaging (95)
+[2016.11.29-09.59.59:468][215]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (94)
+[2016.11.29-09.59.59:468][215]LogModuleManager: Shutting down and abandoning module Paper2D (93)
+[2016.11.29-09.59.59:469][215]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (92)
+[2016.11.29-09.59.59:479][215]LogModuleManager: Shutting down and abandoning module WmfMedia (91)
+[2016.11.29-09.59.59:495][215]LogModuleManager: Shutting down and abandoning module MediaAssets (90)
+[2016.11.29-09.59.59:495][215]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (89)
+[2016.11.29-09.59.59:497][215]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (88)
+[2016.11.29-09.59.59:509][215]LogModuleManager: Shutting down and abandoning module VREditor (87)
+[2016.11.29-09.59.59:509][215]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (86)
+[2016.11.29-09.59.59:509][215]LogModuleManager: Shutting down and abandoning module PropertyEditor (85)
+[2016.11.29-09.59.59:509][215]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (84)
+[2016.11.29-09.59.59:560][215]LogModuleManager: Shutting down and abandoning module FunctionalTesting (83)
+[2016.11.29-09.59.59:560][215]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (82)
+[2016.11.29-09.59.59:579][215]LogModuleManager: Shutting down and abandoning module Sequencer (81)
+[2016.11.29-09.59.59:612][215]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (80)
+[2016.11.29-09.59.59:612][215]LogModuleManager: Shutting down and abandoning module MessageLog (79)
+[2016.11.29-09.59.59:612][215]LogModuleManager: Shutting down and abandoning module AssetTools (78)
+[2016.11.29-09.59.59:614][215]LogModuleManager: Shutting down and abandoning module UMGEditor (77)
+[2016.11.29-09.59.59:635][215]LogModuleManager: Shutting down and abandoning module UMG (76)
+[2016.11.29-09.59.59:635][215]LogModuleManager: Shutting down and abandoning module SlateReflector (75)
+[2016.11.29-09.59.59:662][215]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2016.11.29-09.59.59:662][215]LogModuleManager: Shutting down and abandoning module EditorStyle (73)
+[2016.11.29-09.59.59:665][215]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (72)
+[2016.11.29-09.59.59:665][215]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (71)
+[2016.11.29-09.59.59:665][215]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
+[2016.11.29-09.59.59:665][215]LogModuleManager: Shutting down and abandoning module Networking (68)
+[2016.11.29-09.59.59:665][215]LogModuleManager: Shutting down and abandoning module Core (67)
+[2016.11.29-09.59.59:665][215]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (66)
+[2016.11.29-09.59.59:665][215]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2016.11.29-09.59.59:665][215]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Adam/Documents/Unreal Projects/Greg/Content/' was aborted.
+[2016.11.29-09.59.59:665][215]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2016.11.29-09.59.59:665][215]LogModuleManager: Shutting down and abandoning module AssetRegistry (65)
+[2016.11.29-09.59.59:891][215]LogModuleManager: Shutting down and abandoning module KismetCompiler (64)
+[2016.11.29-09.59.59:891][215]LogModuleManager: Shutting down and abandoning module PhysXFormats (63)
+[2016.11.29-09.59.59:891][215]LogModuleManager: Shutting down and abandoning module MeshUtilities (62)
+[2016.11.29-09.59.59:913][215]LogModuleManager: Shutting down and abandoning module DerivedDataCache (61)
+[2016.11.29-09.59.59:975][215]LogDerivedDataCache: Shutdown
+[2016.11.29-09.59.59:975][215]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (60)
+[2016.11.29-09.59.59:982][215]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (59)
+[2016.11.29-09.59.59:997][215]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (58)
+[2016.11.29-10.00.00:021][215]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (57)
+[2016.11.29-10.00.00:033][215]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (56)
+[2016.11.29-10.00.00:033][215]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (55)
+[2016.11.29-10.00.00:034][215]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (54)
+[2016.11.29-10.00.00:065][215]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2016.11.29-10.00.00:100][215]LogModuleManager: Shutting down and abandoning module ImageWrapper (52)
+[2016.11.29-10.00.00:100][215]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (51)
+[2016.11.29-10.00.00:100][215]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (50)
+[2016.11.29-10.00.00:100][215]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (49)
+[2016.11.29-10.00.00:130][215]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (48)
+[2016.11.29-10.00.00:154][215]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (47)
+[2016.11.29-10.00.00:154][215]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (46)
+[2016.11.29-10.00.00:154][215]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (45)
+[2016.11.29-10.00.00:180][215]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (44)
+[2016.11.29-10.00.00:180][215]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (43)
+[2016.11.29-10.00.00:187][215]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (42)
+[2016.11.29-10.00.00:187][215]LogModuleManager: Shutting down and abandoning module Messaging (41)
+[2016.11.29-10.00.00:188][215]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (40)
+[2016.11.29-10.00.00:188][215]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (39)
+[2016.11.29-10.00.00:188][215]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (38)
+[2016.11.29-10.00.00:188][215]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (37)
+[2016.11.29-10.00.00:188][215]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (36)
+[2016.11.29-10.00.00:188][215]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (35)
+[2016.11.29-10.00.00:188][215]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (34)
+[2016.11.29-10.00.00:188][215]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (33)
+[2016.11.29-10.00.00:188][215]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (32)
+[2016.11.29-10.00.00:188][215]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (31)
+[2016.11.29-10.00.00:188][215]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (30)
+[2016.11.29-10.00.00:188][215]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (29)
+[2016.11.29-10.00.00:191][215]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (28)
+[2016.11.29-10.00.00:199][215]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (27)
+[2016.11.29-10.00.00:210][215]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2016.11.29-10.00.00:210][215]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2016.11.29-10.00.00:210][215]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2016.11.29-10.00.00:210][215]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2016.11.29-10.00.00:210][215]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2016.11.29-10.00.00:218][215]LogModuleManager: Shutting down and abandoning module GearVR (21)
+[2016.11.29-10.00.00:218][215]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2016.11.29-10.00.00:218][215]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2016.11.29-10.00.00:218][215]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2016.11.29-10.00.00:233][215]LogOnline:Display: Unloading online subsystem: NULL
+[2016.11.29-10.00.00:303][215]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2016.11.29-10.00.00:303][215]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2016.11.29-10.00.00:303][215]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD93F7097-42F0-15A8-4559-03AA6B22329A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.2-3172292%2B%2B%2BUE4%2BRelease-4.13&UserID=87c584a04ee8aed0d3e445be8ff90ec0%7C3d21055f8d7a41feabbb69ce03ebe8e9%7Ca4f24451-a964-48d4-87c6-48e6adc7d6a3&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2016.11.29-10.00.00:326][215]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2016.11.29-10.00.00:352][215]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.11.29-10.00.00:405][215]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.11.29-10.00.00:405][215]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.11.29-10.00.00:405][215]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.11.29-10.00.00:428][215]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.11.29-10.00.00:463][215]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.11.29-10.00.00:463][215]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.11.29-10.00.00:463][215]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.11.29-10.00.00:463][215]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.11.29-10.00.00:463][215]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.11.29-10.00.00:463][215]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.11.29-10.00.00:470][215]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.11.29-10.00.00:512][215]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.11.29-10.00.00:512][215]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.11.29-10.00.00:547][215]LogExit: Exiting.
+[2016.11.29-10.00.00:580][215]Log file closed, 11/29/16 02:00:00
