@@ -220,7 +220,7 @@ pip-log.txt
 *.sln
 
 #UE4 Files
-/Binaries
-/DerivedDataCache
-/Intermediate
-/Saved
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
