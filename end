@@ -1,0 +1,369 @@
+[33mcommit c42c209008eb7576206d8b1f1d2dcc3f4c7c5397[m
+Merge: 36e44ee 83deeda
+Author: Robert Fernandez <robertfernandez71@yahoo.com>
+Date:   Fri Dec 9 14:40:29 2016 -0800
+
+    Sounds!!!
+
+[33mcommit 36e44ee7319a05a0774ccec07681bb8fa691ca16[m
+Author: Robert Fernandez <robertfernandez71@yahoo.com>
+Date:   Fri Dec 9 14:39:58 2016 -0800
+
+    We have sounds!
+
+[33mcommit 83deeda16d6be28aecf75b15b527a8124644fe78[m
+Author: trimun <magnawiz@gmail.com>
+Date:   Fri Dec 9 14:33:02 2016 -0800
+
+    latest map
+
+[33mcommit a3d9c8dbc1658c549e9b5dd56b0523d00a055b5f[m
+Merge: 5c47771 1ca1b56
+Author: trimun <magnawiz@gmail.com>
+Date:   Fri Dec 9 14:13:36 2016 -0800
+
+    cool
+
+[33mcommit 5c4777197d9c7945cdc54436227990574629ce2c[m
+Author: trimun <magnawiz@gmail.com>
+Date:   Fri Dec 9 14:10:11 2016 -0800
+
+    whaterver
+
+[33mcommit 5cca40ccc996cf07ec855c3fb3ace27871f50bea[m
+Author: trimun <magnawiz@gmail.com>
+Date:   Fri Dec 9 14:07:43 2016 -0800
+
+    lighting needs build
+
+[33mcommit 7a8010df16051caa5223f9dec8c332e8f7558c6a[m
+Author: trimun <magnawiz@gmail.com>
+Date:   Fri Dec 9 14:07:10 2016 -0800
+
+    lighting needs work
+
+[33mcommit 1ca1b565f75785f4dedabf64a32404aeaa509b5a[m
+Merge: 0ac7c52 c940b8e
+Author: Robert Fernandez <robertfernandez71@yahoo.com>
+Date:   Fri Dec 9 13:58:26 2016 -0800
+
+    Updating
+
+[33mcommit 0ac7c52db219c405b7ad9f939e0a7913caedd4b1[m
+Author: Robert Fernandez <robertfernandez71@yahoo.com>
+Date:   Fri Dec 9 13:56:21 2016 -0800
+
+    updating
+
+[33mcommit 183bac00556134f8156244305bc4ec27432671cd[m
+Merge: b48f1fd c940b8e
+Author: trimun <magnawiz@gmail.com>
+Date:   Fri Dec 9 13:45:08 2016 -0800
+
+    cool
+
+[33mcommit b48f1fd2f57466db6312d8365b9b39d52157f429[m
+Author: trimun <magnawiz@gmail.com>
+Date:   Fri Dec 9 13:44:48 2016 -0800
+
+    whatever
+
+[33mcommit c940b8e11486d8001a6c052f0592dcee8f85b549[m
+Author: Michael Kurnia Wijanto <michael.wijanto@gmail.com>
+Date:   Fri Dec 9 13:39:54 2016 -0800
+
+    Added in temp fix and UV
+
+[33mcommit 42d97ead74ad4355f5df424696755ec32ad5b392[m
+Author: dbirtola <dbirtola@gmail.com>
+Date:   Fri Dec 9 13:13:39 2016 -0700
+
+    Added cinematic stuff that doesnt work. Temporary AI spline. Game Over screen. Sentinel player detection. Sentinel Model and UV
+
+[33mcommit 2abde1c3c3ea295dffd7f696886d69fedd62ba0b[m
+Merge: 24516d0 41cd07e
+Author: trimun <magnawiz@gmail.com>
+Date:   Thu Dec 8 20:01:16 2016 -0800
+
+    overwritten file issue, trying again
+
+[33mcommit 24516d09ac6d202f6011a785e05b6b78dcf64bb2[m
+Author: trimun <magnawiz@gmail.com>
+Date:   Thu Dec 8 19:56:32 2016 -0800
+
+    gotta commit file otherwise overwritten
+
+[33mcommit 41cd07e5bd97c4c88a59fe95a50e876422e66135[m
+Merge: 09bd0ea b7f3355
+Author: dbirtola <dbirtola@gmail.com>
+Date:   Thu Dec 8 02:38:26 2016 -0700
+
+    Double commit cause git sucks
+
+[33mcommit 09bd0ea3984603327852246d77edd6fcf8c354fa[m
+Author: dbirtola <dbirtola@gmail.com>
+Date:   Thu Dec 8 02:36:05 2016 -0700
+
+    Worked on AI, added sentinel glow
+
+[33mcommit ff148682beae476f68d596ddc301b34fea0f77c7[m
+Merge: 5994f63 b7f3355
+Author: trimun <magnawiz@gmail.com>
+Date:   Wed Dec 7 20:28:14 2016 -0800
+
+    try again
+
+[33mcommit 5994f63a86ed02486ed89d4cbb126a43ea112245[m
+Author: trimun <magnawiz@gmail.com>
+Date:   Wed Dec 7 20:09:23 2016 -0800
+
+    gotta push before pull
+
+[33mcommit b7f33559af1840e63c42369c40433edae9ad6994[m
+Author: remynotmartin <remy_dinh@yahoo.com>
+Date:   Wed Dec 7 18:14:53 2016 -0800
+
+    Damen fixed key and door logic
+
+[33mcommit 471de65b5c5670f97280eadf24dad238743b4231[m
+Author: trimun <magnawiz@gmail.com>
+Date:   Wed Dec 7 17:04:50 2016 -0800
+
+    still work on map
+
+[33mcommit 6e82c086effeb47bdd443f53871bf97be40b81ee[m
+Merge: 11023de 7ca0ed1
+Author: dbirtola <dbirtola@gmail.com>
+Date:   Tue Dec 6 15:43:34 2016 -0700
+
+    Trying the restart fix
+
+[33mcommit 11023dea40aca2627883f4ef7945109b54e9867f[m
+Author: dbirtola <dbirtola@gmail.com>
+Date:   Tue Dec 6 15:39:50 2016 -0700
+
+    Not sure, I guess i changed a preference?
+
+[33mcommit 7ca0ed1263017899b503d94dd81f3beddc135972[m
+Author: remynotmartin <remy_dinh@yahoo.com>
+Date:   Tue Dec 6 00:28:13 2016 -0800
+
+    fixed unlinked files
+
+[33mcommit 479bdc5bea523361ce0eda5e79336bef659c5a7f[m
+Author: trimun <magnawiz@gmail.com>
+Date:   Mon Dec 5 19:17:31 2016 -0800
+
+    meshes and materials and map
+
+[33mcommit 53a4e5cf8eb5ae9b6bffa2ac4b9154207d8ad211[m
+Author: Robert Fernandez <robertfernandez71@yahoo.com>
+Date:   Sat Dec 3 09:28:57 2016 -0800
+
+    Saturday morning update
+
+[33mcommit fed17666f1196f7d1ea7c8e24ffdd8c504d802f9[m
+Merge: 7e44167 24b4e39
+Author: Robert Fernandez <robertfernandez71@yahoo.com>
+Date:   Fri Dec 2 18:44:56 2016 -0800
+
+    No comment
+
+[33mcommit 7e44167506c932244f56856612d6a950c850144b[m
+Author: Robert Fernandez <robertfernandez71@yahoo.com>
+Date:   Fri Dec 2 18:41:56 2016 -0800
+
+    Syncing and pulling
+
+[33mcommit 24b4e39ebc69301eea5d90462774c2c90e407356[m
+Merge: 2f46dc8 289ab28
+Author: Michael Kurnia Wijanto <michael.wijanto@gmail.com>
+Date:   Fri Dec 2 15:49:21 2016 -0800
+
+    last time
+
+[33mcommit 2f46dc8b58da59e038655d8deef1457b44ea651a[m
+Author: Michael Kurnia Wijanto <michael.wijanto@gmail.com>
+Date:   Fri Dec 2 15:47:21 2016 -0800
+
+    Ugh.
+
+[33mcommit 14795df1fc6e1952a07dd93a6c713fc26a285784[m
+Author: Michael Kurnia Wijanto <michael.wijanto@gmail.com>
+Date:   Fri Dec 2 15:45:32 2016 -0800
+
+    not sure. hope this works
+
+[33mcommit 7265e40d3a7f1842f3c3715ea944adc3a4c0422b[m
+Author: Michael Kurnia Wijanto <michael.wijanto@gmail.com>
+Date:   Fri Dec 2 15:44:28 2016 -0800
+
+    Terminal Camera and StartEnd goal
+
+[33mcommit 289ab28eb62f4436fe35883562b18e7aa18a7fa0[m
+Author: Robert Fernandez <robertfernandez71@yahoo.com>
+Date:   Fri Dec 2 15:21:58 2016 -0800
+
+    Colored door functionality
+
+[33mcommit 3f145514c2802323f05f8d2b00091981b90ecc01[m
+Merge: d6def0e 2d94f2f
+Author: Robert Fernandez <robertfernandez71@yahoo.com>
+Date:   Fri Dec 2 14:38:31 2016 -0800
+
+    Added overhead for enemy AI character model
+
+[33mcommit d6def0eee5e799e767030d39d55783489c7f8be0[m
+Author: Robert Fernandez <robertfernandez71@yahoo.com>
+Date:   Fri Dec 2 13:54:00 2016 -0800
+
+    updating
+
+[33mcommit 2d94f2f67aed0db12ba22450db539f4f1001eef4[m
+Merge: 91c63fd 4d19e6e
+Author: dbirtola <dbirtola@gmail.com>
+Date:   Fri Dec 2 14:12:21 2016 -0700
+
+    trying again
+
+[33mcommit 91c63fdae8d9496de7fd7e64df47ed41630a67fa[m
+Author: dbirtola <dbirtola@gmail.com>
+Date:   Fri Dec 2 14:09:29 2016 -0700
+
+    Sentinel pathing and player detection
+
+[33mcommit ad82f50364e6974bad17da913bead36a85324f12[m
+Author: Michael Kurnia Wijanto <michael.wijanto@gmail.com>
+Date:   Fri Dec 2 12:43:43 2016 -0800
+
+    Added Terminal for camera and Objective
+
+[33mcommit 4d19e6e80bf3f75595e0ed1a7de36806e1defc01[m
+Author: Robert Fernandez <robertfernandez71@yahoo.com>
+Date:   Fri Dec 2 09:28:02 2016 -0800
+
+    Added network assets to project directory
+
+[33mcommit 199515fc03905145c0ce98e69e28f83045180029[m
+Author: trimun <magnawiz@gmail.com>
+Date:   Wed Nov 30 01:45:31 2016 -0800
+
+    added mock sentries and path trail on MartianBase (not MartianBase2)
+
+[33mcommit 409307ecb1be4296624555b864000af7fe6fd40b[m
+Author: remynotmartin <remy_dinh@yahoo.com>
+Date:   Wed Nov 23 00:56:28 2016 -0800
+
+    Removed .gitignore file, I decided that it could be dangerous to our workflow
+
+[33mcommit 3760d4dfc1c6e0ee8e18f46e748debac16647a64[m
+Author: remynotmartin <remy_dinh@yahoo.com>
+Date:   Wed Nov 23 00:51:10 2016 -0800
+
+    added a '.gitignore' file to keep git from tracking certain log files
+
+[33mcommit c29eed1fe2c17928917f6cc9f95eea7bdfd5930f[m
+Author: remynotmartin <remy_dinh@yahoo.com>
+Date:   Sat Nov 19 12:30:59 2016 -0800
+
+    Revised README.md
+
+[33mcommit 7f50f7844c0c6b7bc3ec486af762cd57e8635c7d[m
+Author: remynotmartin <remy_dinh@yahoo.com>
+Date:   Fri Nov 18 15:43:57 2016 -0800
+
+    Deleted Malignant Greg subfolder, then added Adam's Martian Base map to  folder
+
+[33mcommit 74a52a6590f2ad2dc855115cf3c52aa32a3a6104[m
+Author: dbirtola <dbirtola@gmail.com>
+Date:   Fri Nov 18 12:24:34 2016 -0700
+
+    Grenade throw without physics
+
+[33mcommit 3927aae9798356fcd9ff9c40e64bc3488224caab[m
+Author: dbirtola <dbirtola@gmail.com>
+Date:   Fri Nov 18 11:58:06 2016 -0700
+
+    Door and button solution
+
+[33mcommit 224d2d0455f08795e917b0ceb66a1da9c5843e10[m
+Author: dbirtola <dbirtola@gmail.com>
+Date:   Fri Nov 18 11:32:20 2016 -0700
+
+    Interactable functionality
+
+[33mcommit b404c3d5ceee163dbcb0a895fa9ef0feaa6279e7[m
+Author: remynotmartin <remy_dinh@yahoo.com>
+Date:   Mon Nov 7 18:15:28 2016 -0800
+
+    Further refinements to README.md
+
+[33mcommit a2cc0d71a4b84043267aef087065375d10fc7c99[m
+Author: remynotmartin <remy_dinh@yahoo.com>
+Date:   Mon Nov 7 17:44:24 2016 -0800
+
+    Refined the flavor text of the README.md
+
+[33mcommit 1957cde64d3e7c2ec59389bbb48a210039eb90cf[m
+Merge: 869172f 9900244
+Author: MrApple55 <shinjo1233@gmail.com>
+Date:   Sun Nov 6 00:27:08 2016 -0700
+
+    Merge branch 'master' of https://github.com/DevelopersGuild/Greg
+
+[33mcommit 869172f485b5fdd83769459123f9d5b2c462352c[m
+Author: MrApple55 <shinjo1233@gmail.com>
+Date:   Sun Nov 6 00:25:58 2016 -0700
+
+    new stuff in hud. fixed chair & trap
+
+[33mcommit ae60bd2b1b5959979aa5177a063973ce135e893a[m
+Author: MrApple55 <shinjo1233@gmail.com>
+Date:   Sat Nov 5 12:21:09 2016 -0700
+
+    fixed takeDamage, made door bigger to fit character, added health bar
+
+[33mcommit 9900244bb84fe5494fd0990a8208b7c779a32089[m
+Author: remynotmartin <remy_dinh@yahoo.com>
+Date:   Sat Nov 5 09:31:53 2016 -0700
+
+    Rectified names with the current placeholder in README.md
+
+[33mcommit 98e7a937058a23905db8630adab6e2315b21c836[m
+Author: remynotmartin <remy_dinh@yahoo.com>
+Date:   Sat Nov 5 09:28:27 2016 -0700
+
+    Modified the README.md a bit more
+
+[33mcommit bba5def298becd9f36228e5da55a340a83f15a73[m
+Author: Andy-HP\Andy <shinjo1233@gmail.com>
+Date:   Fri Nov 4 15:20:10 2016 -0700
+
+    added doors and trap
+
+[33mcommit dd7ab3fc380e1fbc0e433317cd06d909942ba345[m
+Author: remynotmartin <remy_dinh@yahoo.com>
+Date:   Fri Nov 4 14:36:51 2016 -0700
+
+    Added a touch of flavor to the README.md
+
+[33mcommit 909db7dc513eb90ed2b86329a1316b41f2609be7[m
+Author: pikiaboy <thomas.pham96@yahoo.com>
+Date:   Wed Nov 2 21:09:22 2016 -0700
+
+    Added AI
+    
+    AI will follow player if in a 55 degree cone of vision. Easy change to
+    kill player on command. Done as proof as concept.
+
+[33mcommit 27f58761b410aa4d64f1a64eaa25aa430ab2b32d[m
+Author: RSFernandez <robertfernandez71@yahoo.com>
+Date:   Fri Oct 28 15:10:08 2016 -0700
+
+    Initial Project Push
+
+[33mcommit 7b38fc5d698dfd8d0a13a23bc79826b859b7cbb2[m
+Author: RSFernandez <robertfernandez71@yahoo.com>
+Date:   Fri Oct 28 14:14:35 2016 -0700
+
+    Initial commit
